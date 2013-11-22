@@ -63,6 +63,7 @@ public class Assemble_Merge_Estimates_01 {
             PseudoElements ES = me.getElements(i);
             firstSection = true;
             PseudoElement Parent = null;
+            
             for (int k = 0; k < ES.size(); k++) {
                 PseudoElement E = ES.getElement(k);
 
@@ -85,12 +86,10 @@ public class Assemble_Merge_Estimates_01 {
                     File outf = new File(sheet_path + "/" + getFileName(nameArray));
                     csv = new ProcessLogger(outf);
                     csv.KillLog();
-                    csv.WriteNoDate(lineOne);
+                    csv.WriteNoDate( lineOne );
                     csv.WriteNoDate("\"\",\"\",\"Hours\",\"Units\""); 
                 }
-               
-                
-                
+
                 // Parent
                 if (E.getLevel() == (targetLevel - 1)) {
                     Parent = E;
@@ -192,6 +191,7 @@ public class Assemble_Merge_Estimates_01 {
         }
         return rc;
     }
+    
     protected static Attributes getUnitsFrom(PseudoElements ES, PseudoElement E, String type) {
         Attributes rc = new Attributes();
         int stopLevel = E.getLevel();
