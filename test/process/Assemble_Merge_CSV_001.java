@@ -4,6 +4,8 @@
  */
 package process;
 
+import com.codeflyz.documents.ElementProcessorCSV;
+import com.codeflyz.documents.Project;
 import docdat.assembler.text.TEXT_Assembler;
 import docdat.id.MasterElementsList;
 import docdat.id.PseudoElement;
@@ -11,36 +13,30 @@ import docdat.id.PseudoElements;
 import docdat.io.names.ProcessLogger;
 import docdat.utils.Attribute;
 import docdat.utils.Attributes;
-import java.io.File;
-import static process.Assemble_Merge_Estimates_01.getLevelDescription;
 
 /**
  *
  * @author wilfongj
  */
-public class Assemble_Merge_Functions_00 {
-     public static void main(String[] args) throws Exception {
-        
-         System.out.println("PseudoElementsReaderTest 1");
-        String project_path = "C:/00-Code/00-Projects/SHPO/GIS-Database/00-Estimates/";
-        String sheet_path = project_path + "output-sheets";
+public class Assemble_Merge_CSV_001 {
 
+    public static void main(String[] args) throws Exception {
+
+        System.out.println("PseudoElementsReaderTest 1");
+        String project_path = "C:/00-Imports/MiSHPO/";
+        //String sheet_path = project_path + "output-sheets";
+        
+        
+        Project prj = new Project(project_path);
+        
         /// Merge ODT Documents
 
-        File f = new File(sheet_path);
+        System.out.println("B project file: " + prj.getProjectPath() );
 
-        //File f = new File("C:\\test1\\");
-        System.out.println("exists: " + f.exists());
-        // make folder to hold output
-        if (!f.exists()) {
-            System.out.println("new folder: " + f.toString());
-
-            f.mkdirs();
-        }
         MasterElementsList me = new MasterElementsList();
         try {
             // adding the MasterElementsList make replacements happen
-            TEXT_Assembler a = new TEXT_Assembler(project_path, me);
+            TEXT_Assembler a = new TEXT_Assembler(prj.getProjectPath(), me);
             a.assemble();
 
         } catch (Exception e) {
@@ -57,16 +53,18 @@ public class Assemble_Merge_Functions_00 {
         ProcessLogger csv = null;
 
         PseudoElement[] nameArray = new PseudoElement[fileNameLevel];
+        System.out.println("project file: " + project_path);
 
+        //prg.setProject_path();
 
         for (int i = 0; i < me.size(); i++) {
             PseudoElements ES = me.getElements(i);
             firstSection = true;
             PseudoElement Parent = null;
-            
-            ElementProcessor EP = new ElementProcessor(ES);
+
+            ElementProcessorCSV EP = new ElementProcessorCSV(prj, ES);
             //EP.setPathElementMax(2); 
-            EP.writeCSV();
+            EP.process();
 
         }//for
 
@@ -116,7 +114,7 @@ public class Assemble_Merge_Functions_00 {
         }
         return rc;
     }
-    
+
     protected static Attributes getUnitsFrom(PseudoElements ES, PseudoElement E, String type) {
         Attributes rc = new Attributes();
         int stopLevel = E.getLevel();
@@ -135,22 +133,23 @@ public class Assemble_Merge_Functions_00 {
             // }
             if (isNumber(NE.getName())) {
                 // is hours?
-                PseudoElement P  = ES.getParent(NE) ;
-                PseudoElement PP = ES.getParent(P) ; 
-                if (PP != null  && PP.getName().toLowerCase().contains(type)) {
+                PseudoElement P = ES.getParent(NE);
+                PseudoElement PP = ES.getParent(P);
+                if (PP != null && PP.getName().toLowerCase().contains(type)) {
 
                     Attribute att = new Attribute();
                     att.setName(P.getName()); // a title 
                     att.setValue(NE.getName()); // a number
-                    rc.add(att); 
-                   // levelHourTotal += new Integer(NE.getName()).intValue();
-                   // rc = new Integer(levelHourTotal);
+                    rc.add(att);
+                    // levelHourTotal += new Integer(NE.getName()).intValue();
+                    // rc = new Integer(levelHourTotal);
                 }
             }
         }
         //System.out.println("getSumFrom out ");
         return rc;
     }
+
     protected static Integer getSumFrom(PseudoElements ES, PseudoElement E, String type) {
         Integer rc = null;
         int stopLevel = E.getLevel();

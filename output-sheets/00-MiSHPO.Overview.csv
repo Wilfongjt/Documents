@@ -1,0 +1,6039 @@
+"","Overview"""
+"Description"""""
+"","MiSHPO  or the system is conceived as software to facilitate the building and maintaining of workable, secure, and controlled processes, collaborate with individuals, contractors, and consultant, ensure accountability and efficiency in the preparation of the documentation of Michigan historic places and fulfill the SHPO mission to protect historic resources and encourage economic reuse."""
+"","System Parts"""
+"","Commercial Services"""
+"Description"""""
+"","Commercial Services are those services that are deemed beyond the scope of the project but can be provided by a third party."""
+"","Open Data and API Hosting"""
+"Description"""""
+"","Enterprise Service to provide a software function over the internet"""
+"","Units"""
+"","4 yrs of Hosting Units"""
+"",4,4
+"","Web Services"""
+"Description"""""
+"","Subscription Service to provide a software function over the internet"""
+"","Third party Geocoding WebService"""
+"Description"""""
+"","A commercial service delivered over the internet to that converts an address to a geographic coordinate."""
+"","Units"""
+"","Geocoding Units"""
+"",4,4
+"","Commercial/Open Source Off the Shelf Software"""
+"Description"""""
+"","Commercial/Open Source Off the Shelf Software are those software functions and methods that are deemed beyond the scope of the project software development but can be provided by a third party."""
+"","Process design software"""
+"Description"""""
+"","Process design software allows actors to design and document business processes to the point where it is ready to be implemented as operational workflow."""
+"","Units"""
+"","Process Design Software Units"""
+"",4,4
+"","Workflow Engine"""
+"Description"""""
+"","Workflow engine is software that operationalizes process into the  steps and tasks needed to intake data and output a quality digital asset ."""
+"","Units"""
+"","Workflow Engine Development Units"""
+"",1,1
+"","Workflow Engine Test Units"""
+"",1,1
+"","Workflow Engine Production Units"""
+"",1,1
+"","Database Engine"""
+"Description"""""
+"","Database Engine software acts as a conduit and means of manipulation of stored facts, figures, and symbols"""
+"","Units"""
+"","Database Engine Development Units"""
+"",1,1
+"","Database Engine Test Units"""
+"",1,1
+"","Database Engine Production Units"""
+"",1,1
+"","Web/Application Engine"""
+"Description"""""
+"","Web/Application Engine is utility software that supports and extends an application for use on the internet/intranet/extranet ."""
+"","Units"""
+"","Web/Application Engine Development Units"""
+"",1,1
+"","Web/Application Engine Test Units"""
+"",1,1
+"","Web/Application Engine Development Units"""
+"",1,1
+"","Cartographic Engine"""
+"Description"""""
+"","Cartographic Engine relates to the compilation, display, and manipulation  of geographically encoded symbols in an interactive way."""
+"","Units"""
+"","Database Development Units"""
+"",1,1
+"","Database Test Units"""
+"",1,1
+"","Database Production Units"""
+"",1,1
+"","Geographic Information System Engine"""
+"Description"""""
+"","GIS Engine is special software to store, format, manipulate geographically encoded symbols."""
+"","Units"""
+"","Geographic Information System Engine Units Development Units"""
+"",1,1
+"","Geographic Information System Engine Units Test Units"""
+"",1,1
+"","Geographic Information System Engine Units Production Units"""
+"",1,1
+"","Malware Sequestration Engine"""
+"Description"""""
+"","Malware Sequestration Engine is a set of software techniques and tools for intercepting document and images files scanning for malware, and sequestering malware infected files."""
+"","Units"""
+"","Malware Sequestration Production Units"""
+"",1,1
+"","Application Programming Interface Framework"""
+"Description"""""
+"","Application Programming Interface Framework is a set of software techniques and tools that facilitate or automate the  creation of APIs"""
+"","Units"""
+"","Application Programming Interface Framework Development Units"""
+"",1,1
+"","Application Programming Interface Framework Test Units"""
+"",1,1
+"","Application Programming Interface Framework Production Units"""
+"",1,1
+"","Existing Resources"""
+"Description"""""
+"","Existing Resources are those Materials, services, staff, or other anticipated assets that will benefit the system and are currently available within the SOM ecosystem.  Availability does not mean the resources must be used but rather that may be used."""
+"","Hardware"""
+"Description"""""
+"","A collection of physical elements that constitute the computer system"""
+"","Database server computer"""
+"","Units"""
+"","Database  Development Server Units"""
+"",0,0
+"","Database  Test Server Units"""
+"",0,0
+"","Database  Production Server Units"""
+"",0,0
+"","Application server computer"""
+"","Units"""
+"","Application Development Server Units"""
+"",0,0
+"","Application Test Server Units"""
+"",0,0
+"","Application Production Server Units"""
+"",1,1
+"","API Service Server"""
+"","Units"""
+"","API Service  Development Server Units"""
+"",0,0
+"","API Service  Test Server Units"""
+"",0,0
+"","API Service  Production Server Units"""
+"",1,1
+"","Digital Storage"""
+"","Units"""
+"","Digital Storage Units (GB)"""
+"",500,500
+"","Security"""
+"Description"""""
+"","Encryption and secure facility for hardware, software and data"""
+"","SSL certificate"""
+"","Units"""
+"","SSL Certificate Development Units"""
+"",0,0
+"","SSL Certificate Test Units"""
+"",0,0
+"","SSL Certificate Production Units"""
+"",1,1
+"","Secure facility"""
+"","Units"""
+"","Secure Facility Unit"""
+"",0,0
+"","Software"""
+"Description"""""
+"","Machine readable instructions that direct a computer's operations"""
+"","Desktop GIS software"""
+"","Units"""
+"","Desktop GIS MapInfo Units"""
+"",0,0
+"","Desktop GIS ArcView Units"""
+"",0,0
+"","Enterprise SharePoint Installation"""
+"","Units"""
+"","SharePoint Development Units"""
+"",0,0
+"","SharePoint Test Units"""
+"",0,0
+"","SharePoint Production Units"""
+"",0,0
+"","Environment Initialization"""
+"Description"""""
+"","Environment Initialization are those tasks necessary to bring a system to the point where  it can begin to be extended, modified, configured,  developed, or tested to support the proper function of the system."""
+"","Install Workflow Engine"""
+"","Install Development Workflow Engine"""
+"","Hours"""
+"","Configure"""
+"",8,8
+"","Test"""
+"",8,8
+"","Install Test Workflow Engine"""
+"","Hours"""
+"","Test"""
+"",8,8
+"","Configure"""
+"",8,8
+"","Install Production Workflow Engine"""
+"","Hours"""
+"","Test"""
+"",8,8
+"","Configure"""
+"",8,8
+"","Install Database Engine"""
+"","Install Development Database Engine"""
+"","Hours"""
+"","Configure"""
+"",8,8
+"","Test"""
+"",8,8
+"","Install Test Database Engine"""
+"","Hours"""
+"","Test"""
+"",8,8
+"","Configure"""
+"",8,8
+"","Install Production Database Engine"""
+"","Hours"""
+"","Test"""
+"",8,8
+"","Configure"""
+"",8,8
+"","Install Web/Application Engine"""
+"","Install Development Web/Application Engine"""
+"","Hours"""
+"","Configure"""
+"",8,8
+"","Test"""
+"",8,8
+"","Install Test Web/Application Engine"""
+"","Hours"""
+"","Configure"""
+"",8,8
+"","Test"""
+"",8,8
+"","Install Production Web/Application Engine"""
+"","Hours"""
+"","Configure"""
+"",8,8
+"","Test"""
+"",8,8
+"","Install Cartographic Engine"""
+"","Install Development Cartographic Engine"""
+"","Hours"""
+"","Configure"""
+"",8,8
+"","Test"""
+"",8,8
+"","Install Test Cartographic Engine"""
+"","Hours"""
+"","Test"""
+"",8,8
+"","Configure"""
+"",8,8
+"","Install Production Cartographic Engine"""
+"","Hours"""
+"","Test"""
+"",8,8
+"","Configure"""
+"",8,8
+"","Install GIS Engine"""
+"","Install Development GIS Engine"""
+"","Hours"""
+"","Test"""
+"",0,0
+"","Configure"""
+"",0,0
+"","Install Test GIS Engine"""
+"","Hours"""
+"","Test"""
+"",0,0
+"","Configure"""
+"",0,0
+"","Install Production GIS Engine"""
+"","Hours"""
+"","Test"""
+"",0,0
+"","Configure"""
+"",0,0
+"","Harden Servers"""
+"","Harden Test Servers"""
+"","Hours"""
+"","App/web server"""
+"",20,20
+"","Database Server"""
+"",20,20
+"","Harden Production Servers"""
+"","Hours"""
+"","Configure Firewalls"""
+"",8,8
+"","Database Server"""
+"",20,20
+"","App/web server"""
+"",20,20
+"","Encryption"""
+"",8,8
+"","System Development"""
+"Description"""""
+"","System Development are those tasks necessary to create Custom software that is NOT available off the shelf"""
+"","Audit/History Engine"""
+"Description"""""
+"","Process and implementation of recording system and actor initiated changes to data upon update over time for purposes of auditing, verification of activity, and actor management."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Activity Engine"""
+"Description"""""
+"","Process of recording system and actor initiated activities within the system over time for purposes of auditing, verification of activity, and actor management."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Lexicon Engine"""
+"Description"""""
+"","Process and implementation to take words specific to the SHPO and historic places, create definitions and turn those around to augment other SHPO and historic publications."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Retention Schedule Engine"""
+"Description"""""
+"","Process and implementation to take each fact, figure or symbol and define its lifecycle with regards to the SOM retention schedule methodology, monitor the fact, figure, or symbol until it can purged from the system."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Historic Photograph and Images Engine"""
+"Description"""""
+"","Process and implementation to take a photograph or digital image file, assist in establishing metadata to describe the geographic location, photographer, ..., and output a digital asset."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Historic Documents Engine"""
+"Description"""""
+"","Process and implementation to take a  digital document file, assist in establishing metadata to describe the geographic location, authorship, ..., and output a digital asset."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Bibliograpy Engine"""
+"Description"""""
+"","Process and implementation to record bibliographic references with regards to documentation of historic significance of a place."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Wiki Text Engine"""
+"Description"""""
+"","Provides wiki like formatting to encode references to bibliography, lexicon, and Geographic location."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Invitation Engine"""
+"Description"""""
+"","The Process and implementation of a facebook like system to invite other registrant actors to participate in system activities."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Geographic Data Integration System"""
+"Description"""""
+"","Provides configuration, standard tables, layered map display and query  methods for geographic features."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Instruction Engine"""
+"Description"""""
+"","The Process and implementation to take short descriptions create, read, update, delete, and store store for instructional purposes within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Search Engine"""
+"Description"""""
+"","Hours"""
+"","Data Validation Engine"""
+"","Data Validation Process"""
+"Description"""""
+"","Provide consistent methodical validation of inputs to ensure high quality outputs"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Data Definition and Continuity Engine"""
+"Description"""""
+"","The process and implementation of a data definition system to produce data tables and facilitate data structure changes and data migration do to process improvement."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Historic Place Engine"""
+"Description"""""
+"","Process and implementation to locate a historic place, assist in establishing metadata to describe the geographic location, name (s), historic significance,..., and output a digital asset."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Message Engine"""
+"Description"""""
+"","Process and implementation to intercept, collect for purposes of rewriting, rerouting, and approval."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Historic Person Engine"""
+"Description"""""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Cartographic Integration Management Engine"""
+"Description"""""
+"","Provide consistent methodology for configuring individual interactive maps for use in workflow and search output"""
+"","Cartographic Map Configuration"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",40,40
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Standard Map Manipulation Tool Configuration"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",40,40
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Standard Map Table Structure Definition"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",40,40
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Cartographic Layer Configuration"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",40,40
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Cartographic Configuration Management"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",40,40
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Foreign System Registration Management"""
+"Description"""""
+"","Process and implementation of a  Register of foreign/external systems using the API's and data of the system."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","API Registration Management"""
+"Description"""""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","System Registration Engine"""
+"Description"""""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","System Integration"""
+"Description"""""
+"","System Integration are those tasks necessary to connect parts of the system currently unconnected creating a functional whole."""
+"","Workflow Engine and Cartographic Integration"""
+"Description"""""
+"","Workflow Engine and Cartographic Integration Brings the cartographic display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",80,80
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow and Historic Place Register Integration"""
+"Description"""""
+"","Workflow and Historic Place Register Integration brings  the historic place register display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",20,20
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Data Continuity Integration"""
+"Description"""""
+"","Workflow Engine and Data Continuity Integration brings the Data Continuity manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",20,20
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Malware Sequestration Engine Integration"""
+"Description"""""
+"","Workflow Engine and Malware Sequestration Engine Integration brings the Malware Sequestration manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",80,80
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Audit/History Integration"""
+"Description"""""
+"","Workflow Engine and Audit/History Integration brings the Audit/History display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Activity Monitoring Integration"""
+"Description"""""
+"","Workflow Engine and Activity Monitoring Integration brings the Activity Monitoring display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Database Integration"""
+"Description"""""
+"","Workflow Engine and Database Integration brings the Database  definition and manipulation functions into the context of the workflow design screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Lexicon integration"""
+"Description"""""
+"","Workflow Engine and Lexicon integration brings the Lexicon display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Retention Schedule Integration"""
+"Description"""""
+"","Workflow Engine and Retention Schedule Integration brings the Retention Schedule display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Photograph and image Register Integration"""
+"Description"""""
+"","Workflow Engine and Photograph and image Register Integration brings the Photograph and image Register display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Document Register Integration"""
+"Description"""""
+"","Workflow Engine and Document Register Integration brings the Document Register display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Bibliography Integration"""
+"Description"""""
+"","Workflow Engine and Bibliography Integration brings the Bibliography display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine Engine and Wiki Text Integration"""
+"Description"""""
+"","Workflow Engine Engine and Wiki Text Integration brings the Wiki Text display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Invitation Integration"""
+"Description"""""
+"","Workflow Engine and Invitation Integration brings the Invitation display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Instruction Integration"""
+"Description"""""
+"","Workflow Engine and Instruction Integration brings the Instruction display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Data Validation Integration"""
+"Description"""""
+"","Workflow Engine and Data Validation Integration brings the Instruction display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Foreign System Register Integration"""
+"Description"""""
+"","Workflow Engine and Foreign System Register Integration brings the Foreign System Register display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Message Integration"""
+"Description"""""
+"","Workflow Engine and Message Integration brings the Message display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and API Register Integration"""
+"Description"""""
+"","Workflow Engine and API Register Integration brings the API Register display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and GIS Integration"""
+"Description"""""
+"","Database Engine and GIS Integration brings the GIS manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",0,0
+"","Develop"""
+"",0,0
+"","Implement"""
+"",0,0
+"","Test"""
+"",0,0
+"","Database Engine and Retention Schedule Integration"""
+"Description"""""
+"","Database Engine and Retention Schedule Integration brings the Retention Schedule manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Photograph and Image Integration"""
+"Description"""""
+"","Database Engine and Photograph and Image Integration brings the Photograph and Image display and manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Historic Document Integration"""
+"Description"""""
+"","Database Engine and Historic Document Integration brings the Historic Document display and manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Cartographic Integration Management Integration"""
+"Description"""""
+"","Database Engine and Cartographic Integration Management Integration brings the Cartographic Integration Management display and manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Search Integration"""
+"Description"""""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Data Continuity Integration"""
+"Description"""""
+"","Database Engine and Data Continuity Integration brings  the Data Continuity manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Audit/History Integration"""
+"Description"""""
+"","Database Engine and Audit/History Integration brings the Audit/History manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Activity Integration"""
+"Description"""""
+"","Database Engine and Activity Integration brings  the Audit manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Bibliography Integration"""
+"Description"""""
+"","Database Engine and Bibliography Integration brings the Bibliography manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Lexicon Integration"""
+"Description"""""
+"","Database Engine and Lexicon Integration brings the Lexicon manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Wiki Text Integration"""
+"Description"""""
+"","Database Engine and Wiki Text Integration brings the Wiki Text manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Invitation Integration"""
+"Description"""""
+"","Database Engine and Invitation Integration brings the Invitation manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Instruction Integration"""
+"Description"""""
+"","Database Engine and Instruction Integration brings the Data Validation manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Web/Application Server Integration"""
+"Description"""""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Data Validation Integration"""
+"Description"""""
+"","Database Engine and Data Validation Integration brings the Instruction manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Message Integration"""
+"Description"""""
+"","Database Engine and Message Integration brings the Message manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and API Register Integration"""
+"Description"""""
+"","Database Engine and API Register Integration brings the API Register manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Foreign System Register Integration"""
+"Description"""""
+"","Database Engine and Foreign System Register Integration  brings the Foreign System Register manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Web/App-server and Database Engine Integration"""
+"Description"""""
+"","Web/App-server and Database Engine Integration brings the database connectivity and  functions via configuration into the context of the Web/App-server"""
+"","Hours"""
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Web/App-server and Cartographic Engine Integration"""
+"Description"""""
+"","Web/App-server and Cartographic Engine Integration brings the Cartographic Engine manipulation functions into the context of the Web/App-server"""
+"","Hours"""
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Web/App-server and Search Engine Integration"""
+"Description"""""
+"","Web/App-server and Search Engine Integration brings the Search Engine manipulation functions into the context of the Web/App-server"""
+"","Hours"""
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Web/App-server and Malware Sequestration Engine Integration"""
+"Description"""""
+"","Web/App-server and Malware Sequestration Engine Integration brings the Malware Sequestration Engine manipulation functions into the context of the Web/App-server"""
+"","Hours"""
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Web/App-server and Message Engine Integration"""
+"Description"""""
+"","Web/App-server and Message Engine Integration brings the Message Engine manipulation functions into the context of the Web/App-server"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Retention Schedule and Audit/History Integration"""
+"Description"""""
+"","Retention Schedule and Audit/History Integration brings the Audit/History manipulation functions into the context of the Retention Schedule engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Retention Schedule and Activity Monitoring Integration"""
+"Description"""""
+"","Retention Schedule and Activity Monitoring Integration brings the Activity Monitoring manipulation functions into the context of the Retention Schedule engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Cartographic Engine and Geographic Information System Engine Integration"""
+"Description"""""
+"","Cartographic Engine and Geographic Information System Engine Integration brings the Geographic Information System manipulation functions into the context of the Cartographic Engine"""
+"","Hours"""
+"","Design"""
+"",0,0
+"","Develop"""
+"",0,0
+"","Implement"""
+"",0,0
+"","Test"""
+"",0,0
+"","Cartographic Engine and Photographic Image Integration"""
+"Description"""""
+"","Cartographic Engine and Photographic Image Integration brings the Photographic Image manipulation functions into the context of the Cartographic Engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Cartographic Engine and Historic Document Integration"""
+"Description"""""
+"","Cartographic Engine and Historic Document Integration brings the Historic Document manipulation functions into the context of the Cartographic Engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Cartographic Engine and Historic Places Integration"""
+"Description"""""
+"","Cartographic Engine and Historic Places Integration brings the Historic Places manipulation functions into the context of the Cartographic Engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Cartographic Engine and Historic People Integration"""
+"Description"""""
+"","Cartographic Engine and Historic People Integration brings the Historic People manipulation functions into the context of the Cartographic Engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","System Data Development"""
+"Description"""""
+"","System Data Development are those tasks necessary to define, develop, and implement the storage and manipulation of facts, figures, and symbols that describe the system and the system functions."""
+"","Basemap Data  (third party)"""
+"Description"""""
+"","Basemap data are reference map/layers. These are typically purchased or shared from third parties and are swapped out as updates are required"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Activity Data Structures"""
+"Description"""""
+"","Activity Data structures are for storing who performed which activity and when."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Audit/ History Data Structures"""
+"Description"""""
+"","Audit/History Data structures are for storing what fact, figure, or symbol was changed/updated who performed the change and when did the change occur."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","GIS Storage Configuration Data Structures"""
+"Description"""""
+"","GIS Storage Configuration Data Structures are for standardizing and conforming foreign and native geographic tables for use with a common API."""
+"","Hours"""
+"","Design"""
+"",16,16
+"","Implement"""
+"",8,8
+"","GIS Feature Data Structures"""
+"Description"""""
+"","GIS Feature Data Structures ???"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Lexicon Data Structures"""
+"Description"""""
+"","Lexicon Data Structures are for standardizing and conforming words and definitions for use with an API."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Retention Schedule Data Structures"""
+"Description"""""
+"","Retention Schedule Data Structures are for standardizing/describing how long facts, figures, and symbols are stored within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Photograph and Image Data Structures"""
+"Description"""""
+"","Photograph and Image Data Structures are for standardizing/describing how photographs and images are stored within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Historic Document Data Structures"""
+"Description"""""
+"","Historic Document Data Structures are for standardizing/describing how digital documents are stored within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Bibliography Data Structures"""
+"Description"""""
+"","Bibliography Document Data Structures are for standardizing/describing how Bibliography references are stored within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Wiki Text Data Structures"""
+"Description"""""
+"","Wiki Text Data Structures are currently unknown but some time has been allocated to them"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Invitation Data Structures"""
+"Description"""""
+"","Invitation Data Structures are for standardizing/describing how Invitations to collaborate are stored within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Instruction Data Structures"""
+"Description"""""
+"","Instruction Data Structures are for standardizing/describing how help and reference materials are stored within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","NRHP Case Data Structures"""
+"Description"""""
+"","NRHP Case Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of a NRHP nomination within the system"""
+"","No more than 32 data structures"""
+"","Hours"""
+"","Design"""
+"",192,192
+"","Implement"""
+"",64,64
+"","Archaeology Case Data Structures"""
+"Description"""""
+"","Archaeology Case Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of a Archaeology case within the system"""
+"","No more than 32 data structures"""
+"","Hours"""
+"","Design"""
+"",192,192
+"","Implement"""
+"",64,64
+"","Environmental Review Case Data Structures"""
+"Description"""""
+"","Environmental Review Case Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of a Environmental Review case within the system"""
+"","No more than 32 data structures"""
+"","Hours"""
+"","Design"""
+"",192,192
+"","Implement"""
+"",64,64
+"","Tax Credit Case Data Structures"""
+"Description"""""
+"","Tax Credit Case Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of a Tax Credit case within the system"""
+"","No more than 32 data structures"""
+"","Hours"""
+"","Design"""
+"",192,192
+"","Implement"""
+"",64,64
+"","Historic Place Data Structures"""
+"Description"""""
+"","Historic Place Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of a Historic Place asset within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Historic Person Data Structures"""
+"Description"""""
+"","Historic Person Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of a Historic Person asset within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Foreign System Data Structures"""
+"Description"""""
+"","Foreign System Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of Foreign System data within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","API Register Data Structures"""
+"Description"""""
+"","API Register Data Structures are for describing, collecting, and storing an inventory of application programming interfaces within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Cartographic Integration Data Structures"""
+"Description"""""
+"","Cartographic Integration Data Structures are for standardizing and conforming the display of cartographic maps for use within the system."""
+"","Hours"""
+"","Design"""
+"",24,24
+"","Implement"""
+"",8,8
+"","Message Data Structures"""
+"Description"""""
+"","Message Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of Messages sent, monitored, and revised within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Member Profile Data Structures"""
+"Description"""""
+"","Member Profile Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of Member Profile within the system"""
+"","Hours"""
+"","Design"""
+"",16,16
+"","Implement"""
+"",8,8
+"","Data Validation Data Structures"""
+"Description"""""
+"","Data Validation Data Structures are currently unknown but some time has been allocated to them"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Malware Sequestration Data Structures"""
+"Description"""""
+"","Malware Sequestration Data Structures are currently unknown but some time has been allocated to them"""
+"","Hours"""
+"","Design and implement"""
+"",0,0
+"","Operational Process Development"""
+"Description"""""
+"","Operational Process Development are those tasks necessary to transform business processes into a workflow system."""
+"","Operational Support Processes"""
+"Description"""""
+"","Processes and implementation used to support operations"""
+"","GIS  Location Register Process"""
+"Description"""""
+"","Process and implementation to take addresses, manually sited places and covert to digital locations as part of the metadata of historic sites"""
+"","Design"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test and Implement"""
+"",8,8
+"","Operational Process Design"""
+"Description"""""
+"","Originate process documentation to define process  inputs, function, and outputs"""
+"","Integrate changes and updates to process definition documentation over time"""
+"","Registrant Profile Process"""
+"Description"""""
+"","The Process and implementation of a self serve system registration for purposes gaining basic privileges to interact with the system."""
+"","Define Process"""
+"",24,24
+"","Document Process"""
+"",8,8
+"","Intake Design Process"""
+"Description"""""
+"","Design Intake process(s) to collect core program facts, figures, and symbols"""
+"","NRHP intake Design"""
+"","Define Process"""
+"",200,200
+"","Document Process"""
+"",24,24
+"","Archaeology intake Design"""
+"","Define Process"""
+"",200,200
+"","Document Process"""
+"",24,24
+"","Environmental Review section 106 intake Design"""
+"","Define Process"""
+"",200,200
+"","Document Process"""
+"",24,24
+"","Tax Credit intake Design"""
+"","Define Process"""
+"",200,200
+"","Document Process"""
+"",24,24
+"","Review Design Process"""
+"Description"""""
+"","Design Review process(s) to evaluate the facts, figures, and symbols collected for a core SHPO program and provide commentary and guidance to the submitter(s)"""
+"","NRHP Tax Credit process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Archaeology review process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Environmental Review section 106 review process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Tax Credit review process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Editor Design Process"""
+"Description"""""
+"","Design Editor process(s) to evaluate Review Outcomes for a core SHPO program and assure conformance with SHPO standards"""
+"","NRHP  Editing Design process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Archaeology Editing Design process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Environmental Review section 106 review Editing Design process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Tax Credit Editing Design process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Approval Design Process"""
+"Description"""""
+"","Design Approval process(s)  for a core SHPO program(s)"""
+"","NRHP  Approval Design process"""
+"","Define Process"""
+"",20,20
+"","Document Process"""
+"",8,8
+"","Archaeology Approval Design process"""
+"","Define Process"""
+"",20,20
+"","Document Process"""
+"",8,8
+"","Environmental Review section 106 Approval Design process"""
+"","Define Process"""
+"",20,20
+"","Document Process"""
+"",8,8
+"","Tax Credit Approval Design process"""
+"","Define Process"""
+"",20,20
+"","Document Process"""
+"",8,8
+"","Publishing Design Process"""
+"Description"""""
+"","Design Publishing process(s) to transfer reviewed, edited, approved facts, figures, and symbols collected for core SHPO programs to a secure digital asset database"""
+"","NRHP  Publishing Design process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Archaeology Publishing Design process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Environmental Review section 106 Publishing Design process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Tax Credit Approval Publishing process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Operational Process/workflow Development"""
+"Description"""""
+"","Translate process design into working software system"""
+"","Intake Process/workflow Development"""
+"","NRHP intake development"""
+"","Development"""
+"",128,128
+"","Archaeology intake development"""
+"","Development"""
+"",128,128
+"","Environmental Review section 106 intake development"""
+"","Development"""
+"",128,128
+"","Tax Credit intake development"""
+"","Development"""
+"",128,128
+"","Review Process/workflow Development"""
+"","NRHP Review development"""
+"","Development"""
+"",128,128
+"","Archaeology Review development"""
+"","Development"""
+"",128,128
+"","Environmental Review section 106 Review development"""
+"","Development"""
+"",128,128
+"","Tax Credit Review development"""
+"","Development"""
+"",128,128
+"","Editing Process/workflow Development"""
+"","NRHP Editing development"""
+"","Development"""
+"",128,128
+"","Archaeology Editing development"""
+"","Development"""
+"",128,128
+"","Environmental Editing section 106 Review development"""
+"","Development"""
+"",128,128
+"","Tax Credit Editing development"""
+"","Development"""
+"",128,128
+"","Approval Process/workflow Development"""
+"","NRHP Approval development"""
+"","Development"""
+"",8,8
+"","Archaeology Approval development"""
+"","Development"""
+"",8,8
+"","Environmental Approval section 106 Review development"""
+"","Development"""
+"",8,8
+"","Tax Credit Approval development"""
+"","Development"""
+"",8,8
+"","Publishing Process/workflow Development"""
+"","NRHP Publishing development"""
+"","Development"""
+"",128,128
+"","Archaeology Publishing development"""
+"","Development"""
+"",128,128
+"","Environmental Publishing section 106 Review development"""
+"","Development"""
+"",128,128
+"","Tax Credit Publishing development"""
+"","Development"""
+"",128,128
+"","Operational Process testing"""
+"Description"""""
+"","Prove the functional correctness of the workflow representing the the process"""
+"","Intake Testing"""
+"","NRHP intake Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",32,32
+"","Testing"""
+"",64,64
+"","Archaeology intake Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",32,32
+"","Testing"""
+"",64,64
+"","Environmental Review section 106 intake Testing"""
+"","Hours"""
+"","Testing"""
+"",64,64
+"","Test Case Development"""
+"",32,32
+"","Test Implementation"""
+"",8,8
+"","Tax Credit intake Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",32,32
+"","Testing"""
+"",64,64
+"","Review Testing"""
+"","NRHP Review Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Archaeology Review Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Environmental Review section 106 Review Testing"""
+"","Hours"""
+"","Testing"""
+"",16,16
+"","Test Case Development"""
+"",8,8
+"","Test Implementation"""
+"",8,8
+"","Tax Credit Review Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Editing Testing"""
+"","NRHP Editing Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Archaeology Editing Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Environmental Editing section 106 Review Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Tax Credit Editing Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Approval Testing"""
+"","NRHP Approval Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Archaeology Approval Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Environmental Approval section 106 Review Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Tax Credit Approval Testing"""
+"","Hours"""
+"","Testing"""
+"",16,16
+"","Test Case Development"""
+"",8,8
+"","Test Implementation"""
+"",8,8
+"","Publishing Testing"""
+"","NRHP Publishing Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Archaeology Publishing Testing"""
+"","Hours"""
+"","Testing"""
+"",16,16
+"","Test Case Development"""
+"",8,8
+"","Test Implementation"""
+"",8,8
+"","Environmental Publishing section 106 Review Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Tax Credit Publishing Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Test Case Development"""
+"",8,8
+"","Operational Process implementation"""
+"Description"""""
+"","Prepare software for use in a operational work environment"""
+"","Operational Process Training"""
+"Description"""""
+"","Prepare actor for using software in an operational work environment"""
+"","Configuration Training"""
+"","Hours"""
+"","Present Materials"""
+"",1,1
+"","Prepare Training materials"""
+"",20,20
+"","Workflow Training"""
+"","Hours"""
+"","Prepare Training materials"""
+"",20,20
+"","Present Materials"""
+"",1,1
+"","Process Implementation Training"""
+"","Hours"""
+"","Prepare Training materials"""
+"",20,20
+"","Present Materials"""
+"",1,1
+"","Workflow Screen Design Training"""
+"","Hours"""
+"","Prepare Training materials"""
+"",20,20
+"","Present Materials"""
+"",1,1
+"","Operations Management Training"""
+"","Hours"""
+"","Prepare Training materials"""
+"",20,20
+"","Present Materials"""
+"",1,1
+"","Operations Training"""
+"","Understanding Intake"""
+"","Hours"""
+"","Prepare Training materials"""
+"",20,20
+"","Present Materials"""
+"",1,1
+"","Understanding Review"""
+"","Hours"""
+"","Present Materials"""
+"",1,1
+"","Prepare Training materials"""
+"",20,20
+"","Understanding Editing"""
+"","Hours"""
+"","Prepare Training materials"""
+"",20,20
+"","Present Materials"""
+"",1,1
+"","Understanding Approval"""
+"","Hours"""
+"","Present Materials"""
+"",1,1
+"","Prepare Training materials"""
+"",20,20
+"","Understanding Publication"""
+"","Hours"""
+"","Prepare Training materials"""
+"",20,20
+"","Present Materials"""
+"",1,1
+"","Operational Process Management"""
+"Description"""""
+"","Use, monitor, and adjust, software in a work environment"""
+"","Operations Management"""
+"","Actor/Access Management"""
+"Description"""""
+"","A common system for  managing none personally identifying actor information including deactivation of actor accounts, granting elevated permissions, purging unused actor accounts"""
+"","NRHP Actor Management"""
+"","Archaeology Actor Management"""
+"","Environmental Review Section 106  Actor Management"""
+"","Tax Credit Actor Management"""
+"","Workflow Monitoring"""
+"Description"""""
+"","A common system for monitoring the progression and current state of an individual or group of workflow cases"""
+"","NRHP Workflow Monitoring"""
+"","Archaeology Workflow Monitoring"""
+"","Environmental Review Section 106 Workflow Monitoring"""
+"","Tax Credit Workflow Monitoring"""
+"","Case Management"""
+"Description"""""
+"","Manage current cases in terms data inputs, actor communications and relationships in conformance with SHPO norms"""
+"","NRHP Case Management"""
+"","Archaeology Case Management"""
+"","Environmental Review Section 106 Case Management"""
+"","Tax Credit Case Management"""
+"","Digital Asset Management"""
+"Description"""""
+"","Manage the life cycle of digital assets post creation"""
+"","NRHP Digital Asset Management"""
+"","Archaeology Digital Asset Management"""
+"","Environmental Review Section 106 Digital Asset Management"""
+"","Tax Credit Digital Asset Management"""
+"","Intake Process"""
+"Description"""""
+"","Design, configure, modify, and test all intake screens and data needed to represent all intake related workflow and sub-workflow tasks."""
+"","NRHP Intake Process"""
+"","Archaeology Intake Process"""
+"","Environmental Review Section 106 Intake Process"""
+"","Tax Credit Intake Process"""
+"","Review Process"""
+"Description"""""
+"","Design, configure, modify, and test all review screens and data needed to represent all review related workflow and sub-workflow tasks."""
+"","The review process focuses on the performance of the submitter, with a view to improving quality, and upholding standards for submissions."""
+"","NRHP Review Process"""
+"","Archaeology Review Process"""
+"","Environmental Review Section 106 Intake Process"""
+"","Tax Credit Review Process"""
+"","Edit Process"""
+"Description"""""
+"","Design, configure, modify, and test all editor screens and data needed to represent all edit related workflow and sub-workflow tasks."""
+"","The editing process can involve correction, condensation, organization, and other modifications performed with an intention of producing a correct,consistent, accurate and complete work."""
+"","NRHP Edit Process"""
+"","Archaeology Edit Process"""
+"","Environmental Review Section 106 Edit Process"""
+"","Tax Credit Edit Process"""
+"","Approval Process"""
+"Description"""""
+"","Design, configure, modify, and test all approval screens and data needed to represent all approval related workflow and sub-workflow tasks."""
+"","NRHP Approval Process"""
+"","Archaeology Approval Process"""
+"","Environmental Review Section 106 Approval Process"""
+"","Tax Credit Approval Process"""
+"","Electronic Publication Process"""
+"Description"""""
+"","Design, configure, modify, and test all Publication screens and data needed to represent all Publication related workflow and sub-workflow tasks."""
+"","NRHP Publishing Process"""
+"","Electronic Document publishing"""
+"","Word document"""
+"","Full data disclosure"""
+"","PII redacted data"""
+"","Html document"""
+"","Digital Asset Publishing"""
+"","Open data table"""
+"","Open PII Redacted data table"""
+"","Protected data table"""
+"","Archaeology Publishing Process"""
+"","Electronic Document publishing"""
+"","Word document"""
+"","Full data disclosure"""
+"","PII redacted data"""
+"","Html document"""
+"","Digital Asset Publishing"""
+"","Open data table"""
+"","Open PII Redacted data table"""
+"","Protected data table"""
+"","Environmental Review Section 106 Publishing Process"""
+"","Electronic Document publishing"""
+"","Word document"""
+"","Full data disclosure"""
+"","PII redacted data"""
+"","Html document"""
+"","Digital Asset Publishing"""
+"","Open data table"""
+"","Open PII Redacted data table"""
+"","Protected data table"""
+"","Tax Credit Publishing Process"""
+"","Electronic Document publishing"""
+"","Word document"""
+"","Full data disclosure"""
+"","PII redacted data"""
+"","Html document"""
+"","Digital Asset Publishing"""
+"","Publish to Open data table"""
+"","Publish to Open PII Redacted data table"""
+"","Publish to Protected data table"""
+"","Data Migration"""
+"Description"""""
+"","Data Migration are those tasks necessary to transfer or transform the SHPO's current paper, and digital assets into the  system."""
+"","Argus System Export and Salvage"""
+"Description"""""
+"","Argus System Export and Salvage are those task necessary to salvage facts, figures, and symbols from the Argus System, and prepare/import those data into the new system."""
+"","Note: the current Argus system is more along the lines of an inventory with some modest process data collection.  This data might be better transformed into digital assets rather than running it through the process."""
+"","Evaluate Argus Data Structures"""
+"","Hours"""
+"",0,0
+"","Verification of Argus Data"""
+"","Hours"""
+"",0,0
+"","Cleansing of Argus Data"""
+"","Hours"""
+"",0,0
+"","Preparation of Argus to MiSHPO data transfer"""
+"","Hours"""
+"",0,0
+"","Implementation of Argus Data Transfer"""
+"","Hours"""
+"",0,0
+"","USGS Archaeology Map Digitization"""
+"Description"""""
+"","Need description"""
+"","USGS Scanning"""
+"","Units"""
+"","USGS Quadrangle Map Units"""
+"",1300,1300
+"","Heads up digitizing"""
+"","Units"""
+"","USGS Quadrangle Raster Map Units"""
+"",1300,1300
+"","Hours"""
+"","Register and Digitize"""
+"",1300,1300
+"","Resources"""
+"","Human Resources"""
+"Description"""""
+"","Human Resources are those people with the knowledge and technical skills needed to plan, design, develop, implement, and manage a software system"""
+"","Subject matter experts"""
+"","Argus"""
+"","NRHP"""
+"","Archaeology"""
+"","Tax Credits"""
+"","Environmental review section 106"""
+"","Geographic information systems specialist"""
+"","User Interface Designer"""
+"","System Integrator"""
+"","Process Designer"""
+"","Software developer"""
+"","System implementer"""
+"","Project Manager"""
+"","Business Analyst"""
+"","Database administrator"""
+"","Overview"""
+"Description"""""
+"","MiSHPO  or the system is conceived as software to facilitate the building and maintaining of workable, secure, and controlled processes, collaborate with individuals, contractors, and consultant, ensure accountability and efficiency in the preparation of the documentation of Michigan historic places and fulfill the SHPO mission to protect historic resources and encourage economic reuse."""
+"","System Parts"""
+"","Commercial Services"""
+"Description"""""
+"","Commercial Services are those services that are deemed beyond the scope of the project but can be provided by a third party."""
+"","Open Data and API Hosting"""
+"Description"""""
+"","Enterprise Service to provide a software function over the internet"""
+"","Units"""
+"","4 yrs of Hosting Units"""
+"",4,4
+"","Web Services"""
+"Description"""""
+"","Subscription Service to provide a software function over the internet"""
+"","Third party Geocoding WebService"""
+"Description"""""
+"","A commercial service delivered over the internet to that converts an address to a geographic coordinate."""
+"","Units"""
+"","Geocoding Units"""
+"",4,4
+"","Commercial/Open Source Off the Shelf Software"""
+"Description"""""
+"","Commercial/Open Source Off the Shelf Software are those software functions and methods that are deemed beyond the scope of the project software development but can be provided by a third party."""
+"","Process design software"""
+"Description"""""
+"","Process design software allows actors to design and document business processes to the point where it is ready to be implemented as operational workflow."""
+"","Units"""
+"","Process Design Software Units"""
+"",4,4
+"","Workflow Engine"""
+"Description"""""
+"","Workflow engine is software that operationalizes process into the  steps and tasks needed to intake data and output a quality digital asset ."""
+"","Units"""
+"","Workflow Engine Development Units"""
+"",1,1
+"","Workflow Engine Test Units"""
+"",1,1
+"","Workflow Engine Production Units"""
+"",1,1
+"","Database Engine"""
+"Description"""""
+"","Database Engine software acts as a conduit and means of manipulation of stored facts, figures, and symbols"""
+"","Units"""
+"","Database Engine Development Units"""
+"",1,1
+"","Database Engine Test Units"""
+"",1,1
+"","Database Engine Production Units"""
+"",1,1
+"","Web/Application Engine"""
+"Description"""""
+"","Web/Application Engine is utility software that supports and extends an application for use on the internet/intranet/extranet ."""
+"","Units"""
+"","Web/Application Engine Development Units"""
+"",1,1
+"","Web/Application Engine Test Units"""
+"",1,1
+"","Web/Application Engine Development Units"""
+"",1,1
+"","Cartographic Engine"""
+"Description"""""
+"","Cartographic Engine relates to the compilation, display, and manipulation  of geographically encoded symbols in an interactive way."""
+"","Units"""
+"","Database Development Units"""
+"",1,1
+"","Database Test Units"""
+"",1,1
+"","Database Production Units"""
+"",1,1
+"","Geographic Information System Engine"""
+"Description"""""
+"","GIS Engine is special software to store, format, manipulate geographically encoded symbols."""
+"","Units"""
+"","Geographic Information System Engine Units Development Units"""
+"",1,1
+"","Geographic Information System Engine Units Test Units"""
+"",1,1
+"","Geographic Information System Engine Units Production Units"""
+"",1,1
+"","Malware Sequestration Engine"""
+"Description"""""
+"","Malware Sequestration Engine is a set of software techniques and tools for intercepting document and images files scanning for malware, and sequestering malware infected files."""
+"","Units"""
+"","Malware Sequestration Production Units"""
+"",1,1
+"","Application Programming Interface Framework"""
+"Description"""""
+"","Application Programming Interface Framework is a set of software techniques and tools that facilitate or automate the  creation of APIs"""
+"","Units"""
+"","Application Programming Interface Framework Development Units"""
+"",1,1
+"","Application Programming Interface Framework Test Units"""
+"",1,1
+"","Application Programming Interface Framework Production Units"""
+"",1,1
+"","Existing Resources"""
+"Description"""""
+"","Existing Resources are those Materials, services, staff, or other anticipated assets that will benefit the system and are currently available within the SOM ecosystem.  Availability does not mean the resources must be used but rather that may be used."""
+"","Hardware"""
+"Description"""""
+"","A collection of physical elements that constitute the computer system"""
+"","Database server computer"""
+"","Units"""
+"","Database  Development Server Units"""
+"",0,0
+"","Database  Test Server Units"""
+"",0,0
+"","Database  Production Server Units"""
+"",0,0
+"","Application server computer"""
+"","Units"""
+"","Application Development Server Units"""
+"",0,0
+"","Application Test Server Units"""
+"",0,0
+"","Application Production Server Units"""
+"",1,1
+"","API Service Server"""
+"","Units"""
+"","API Service  Development Server Units"""
+"",0,0
+"","API Service  Test Server Units"""
+"",0,0
+"","API Service  Production Server Units"""
+"",1,1
+"","Digital Storage"""
+"","Units"""
+"","Digital Storage Units (GB)"""
+"",500,500
+"","Security"""
+"Description"""""
+"","Encryption and secure facility for hardware, software and data"""
+"","SSL certificate"""
+"","Units"""
+"","SSL Certificate Development Units"""
+"",0,0
+"","SSL Certificate Test Units"""
+"",0,0
+"","SSL Certificate Production Units"""
+"",1,1
+"","Secure facility"""
+"","Units"""
+"","Secure Facility Unit"""
+"",0,0
+"","Software"""
+"Description"""""
+"","Machine readable instructions that direct a computer's operations"""
+"","Desktop GIS software"""
+"","Units"""
+"","Desktop GIS MapInfo Units"""
+"",0,0
+"","Desktop GIS ArcView Units"""
+"",0,0
+"","Enterprise SharePoint Installation"""
+"","Units"""
+"","SharePoint Development Units"""
+"",0,0
+"","SharePoint Test Units"""
+"",0,0
+"","SharePoint Production Units"""
+"",0,0
+"","Environment Initialization"""
+"Description"""""
+"","Environment Initialization are those tasks necessary to bring a system to the point where  it can begin to be extended, modified, configured,  developed, or tested to support the proper function of the system."""
+"","Install Workflow Engine"""
+"","Install Development Workflow Engine"""
+"","Hours"""
+"","Configure"""
+"",8,8
+"","Test"""
+"",8,8
+"","Install Test Workflow Engine"""
+"","Hours"""
+"","Test"""
+"",8,8
+"","Configure"""
+"",8,8
+"","Install Production Workflow Engine"""
+"","Hours"""
+"","Test"""
+"",8,8
+"","Configure"""
+"",8,8
+"","Install Database Engine"""
+"","Install Development Database Engine"""
+"","Hours"""
+"","Configure"""
+"",8,8
+"","Test"""
+"",8,8
+"","Install Test Database Engine"""
+"","Hours"""
+"","Test"""
+"",8,8
+"","Configure"""
+"",8,8
+"","Install Production Database Engine"""
+"","Hours"""
+"","Test"""
+"",8,8
+"","Configure"""
+"",8,8
+"","Install Web/Application Engine"""
+"","Install Development Web/Application Engine"""
+"","Hours"""
+"","Configure"""
+"",8,8
+"","Test"""
+"",8,8
+"","Install Test Web/Application Engine"""
+"","Hours"""
+"","Configure"""
+"",8,8
+"","Test"""
+"",8,8
+"","Install Production Web/Application Engine"""
+"","Hours"""
+"","Configure"""
+"",8,8
+"","Test"""
+"",8,8
+"","Install Cartographic Engine"""
+"","Install Development Cartographic Engine"""
+"","Hours"""
+"","Configure"""
+"",8,8
+"","Test"""
+"",8,8
+"","Install Test Cartographic Engine"""
+"","Hours"""
+"","Test"""
+"",8,8
+"","Configure"""
+"",8,8
+"","Install Production Cartographic Engine"""
+"","Hours"""
+"","Test"""
+"",8,8
+"","Configure"""
+"",8,8
+"","Install GIS Engine"""
+"","Install Development GIS Engine"""
+"","Hours"""
+"","Test"""
+"",0,0
+"","Configure"""
+"",0,0
+"","Install Test GIS Engine"""
+"","Hours"""
+"","Test"""
+"",0,0
+"","Configure"""
+"",0,0
+"","Install Production GIS Engine"""
+"","Hours"""
+"","Test"""
+"",0,0
+"","Configure"""
+"",0,0
+"","Harden Servers"""
+"","Harden Test Servers"""
+"","Hours"""
+"","App/web server"""
+"",20,20
+"","Database Server"""
+"",20,20
+"","Harden Production Servers"""
+"","Hours"""
+"","Configure Firewalls"""
+"",8,8
+"","Database Server"""
+"",20,20
+"","App/web server"""
+"",20,20
+"","Encryption"""
+"",8,8
+"","System Development"""
+"Description"""""
+"","System Development are those tasks necessary to create Custom software that is NOT available off the shelf"""
+"","Audit/History Engine"""
+"Description"""""
+"","Process and implementation of recording system and actor initiated changes to data upon update over time for purposes of auditing, verification of activity, and actor management."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Activity Engine"""
+"Description"""""
+"","Process of recording system and actor initiated activities within the system over time for purposes of auditing, verification of activity, and actor management."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Lexicon Engine"""
+"Description"""""
+"","Process and implementation to take words specific to the SHPO and historic places, create definitions and turn those around to augment other SHPO and historic publications."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Retention Schedule Engine"""
+"Description"""""
+"","Process and implementation to take each fact, figure or symbol and define its lifecycle with regards to the SOM retention schedule methodology, monitor the fact, figure, or symbol until it can purged from the system."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Historic Photograph and Images Engine"""
+"Description"""""
+"","Process and implementation to take a photograph or digital image file, assist in establishing metadata to describe the geographic location, photographer, ..., and output a digital asset."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Historic Documents Engine"""
+"Description"""""
+"","Process and implementation to take a  digital document file, assist in establishing metadata to describe the geographic location, authorship, ..., and output a digital asset."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Bibliograpy Engine"""
+"Description"""""
+"","Process and implementation to record bibliographic references with regards to documentation of historic significance of a place."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Wiki Text Engine"""
+"Description"""""
+"","Provides wiki like formatting to encode references to bibliography, lexicon, and Geographic location."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Invitation Engine"""
+"Description"""""
+"","The Process and implementation of a facebook like system to invite other registrant actors to participate in system activities."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Geographic Data Integration System"""
+"Description"""""
+"","Provides configuration, standard tables, layered map display and query  methods for geographic features."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Instruction Engine"""
+"Description"""""
+"","The Process and implementation to take short descriptions create, read, update, delete, and store store for instructional purposes within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Search Engine"""
+"Description"""""
+"","Hours"""
+"","Data Validation Engine"""
+"","Data Validation Process"""
+"Description"""""
+"","Provide consistent methodical validation of inputs to ensure high quality outputs"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Data Definition and Continuity Engine"""
+"Description"""""
+"","The process and implementation of a data definition system to produce data tables and facilitate data structure changes and data migration do to process improvement."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Historic Place Engine"""
+"Description"""""
+"","Process and implementation to locate a historic place, assist in establishing metadata to describe the geographic location, name (s), historic significance,..., and output a digital asset."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Message Engine"""
+"Description"""""
+"","Process and implementation to intercept, collect for purposes of rewriting, rerouting, and approval."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Historic Person Engine"""
+"Description"""""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Cartographic Integration Management Engine"""
+"Description"""""
+"","Provide consistent methodology for configuring individual interactive maps for use in workflow and search output"""
+"","Cartographic Map Configuration"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",40,40
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Standard Map Manipulation Tool Configuration"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",40,40
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Standard Map Table Structure Definition"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",40,40
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Cartographic Layer Configuration"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",40,40
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Cartographic Configuration Management"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",40,40
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Foreign System Registration Management"""
+"Description"""""
+"","Process and implementation of a  Register of foreign/external systems using the API's and data of the system."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","API Registration Management"""
+"Description"""""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","System Registration Engine"""
+"Description"""""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","System Integration"""
+"Description"""""
+"","System Integration are those tasks necessary to connect parts of the system currently unconnected creating a functional whole."""
+"","Workflow Engine and Cartographic Integration"""
+"Description"""""
+"","Workflow Engine and Cartographic Integration Brings the cartographic display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",80,80
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow and Historic Place Register Integration"""
+"Description"""""
+"","Workflow and Historic Place Register Integration brings  the historic place register display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",20,20
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Data Continuity Integration"""
+"Description"""""
+"","Workflow Engine and Data Continuity Integration brings the Data Continuity manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",20,20
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Malware Sequestration Engine Integration"""
+"Description"""""
+"","Workflow Engine and Malware Sequestration Engine Integration brings the Malware Sequestration manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",80,80
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Audit/History Integration"""
+"Description"""""
+"","Workflow Engine and Audit/History Integration brings the Audit/History display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Activity Monitoring Integration"""
+"Description"""""
+"","Workflow Engine and Activity Monitoring Integration brings the Activity Monitoring display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Database Integration"""
+"Description"""""
+"","Workflow Engine and Database Integration brings the Database  definition and manipulation functions into the context of the workflow design screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Lexicon integration"""
+"Description"""""
+"","Workflow Engine and Lexicon integration brings the Lexicon display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Retention Schedule Integration"""
+"Description"""""
+"","Workflow Engine and Retention Schedule Integration brings the Retention Schedule display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Photograph and image Register Integration"""
+"Description"""""
+"","Workflow Engine and Photograph and image Register Integration brings the Photograph and image Register display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Document Register Integration"""
+"Description"""""
+"","Workflow Engine and Document Register Integration brings the Document Register display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Bibliography Integration"""
+"Description"""""
+"","Workflow Engine and Bibliography Integration brings the Bibliography display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine Engine and Wiki Text Integration"""
+"Description"""""
+"","Workflow Engine Engine and Wiki Text Integration brings the Wiki Text display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Invitation Integration"""
+"Description"""""
+"","Workflow Engine and Invitation Integration brings the Invitation display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Instruction Integration"""
+"Description"""""
+"","Workflow Engine and Instruction Integration brings the Instruction display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Data Validation Integration"""
+"Description"""""
+"","Workflow Engine and Data Validation Integration brings the Instruction display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Foreign System Register Integration"""
+"Description"""""
+"","Workflow Engine and Foreign System Register Integration brings the Foreign System Register display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Message Integration"""
+"Description"""""
+"","Workflow Engine and Message Integration brings the Message display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and API Register Integration"""
+"Description"""""
+"","Workflow Engine and API Register Integration brings the API Register display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and GIS Integration"""
+"Description"""""
+"","Database Engine and GIS Integration brings the GIS manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",0,0
+"","Develop"""
+"",0,0
+"","Implement"""
+"",0,0
+"","Test"""
+"",0,0
+"","Database Engine and Retention Schedule Integration"""
+"Description"""""
+"","Database Engine and Retention Schedule Integration brings the Retention Schedule manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Photograph and Image Integration"""
+"Description"""""
+"","Database Engine and Photograph and Image Integration brings the Photograph and Image display and manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Historic Document Integration"""
+"Description"""""
+"","Database Engine and Historic Document Integration brings the Historic Document display and manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Cartographic Integration Management Integration"""
+"Description"""""
+"","Database Engine and Cartographic Integration Management Integration brings the Cartographic Integration Management display and manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Search Integration"""
+"Description"""""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Data Continuity Integration"""
+"Description"""""
+"","Database Engine and Data Continuity Integration brings  the Data Continuity manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Audit/History Integration"""
+"Description"""""
+"","Database Engine and Audit/History Integration brings the Audit/History manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Activity Integration"""
+"Description"""""
+"","Database Engine and Activity Integration brings  the Audit manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Bibliography Integration"""
+"Description"""""
+"","Database Engine and Bibliography Integration brings the Bibliography manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Lexicon Integration"""
+"Description"""""
+"","Database Engine and Lexicon Integration brings the Lexicon manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Wiki Text Integration"""
+"Description"""""
+"","Database Engine and Wiki Text Integration brings the Wiki Text manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Invitation Integration"""
+"Description"""""
+"","Database Engine and Invitation Integration brings the Invitation manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Instruction Integration"""
+"Description"""""
+"","Database Engine and Instruction Integration brings the Data Validation manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Web/Application Server Integration"""
+"Description"""""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Data Validation Integration"""
+"Description"""""
+"","Database Engine and Data Validation Integration brings the Instruction manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Message Integration"""
+"Description"""""
+"","Database Engine and Message Integration brings the Message manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and API Register Integration"""
+"Description"""""
+"","Database Engine and API Register Integration brings the API Register manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Foreign System Register Integration"""
+"Description"""""
+"","Database Engine and Foreign System Register Integration  brings the Foreign System Register manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Web/App-server and Database Engine Integration"""
+"Description"""""
+"","Web/App-server and Database Engine Integration brings the database connectivity and  functions via configuration into the context of the Web/App-server"""
+"","Hours"""
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Web/App-server and Cartographic Engine Integration"""
+"Description"""""
+"","Web/App-server and Cartographic Engine Integration brings the Cartographic Engine manipulation functions into the context of the Web/App-server"""
+"","Hours"""
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Web/App-server and Search Engine Integration"""
+"Description"""""
+"","Web/App-server and Search Engine Integration brings the Search Engine manipulation functions into the context of the Web/App-server"""
+"","Hours"""
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Web/App-server and Malware Sequestration Engine Integration"""
+"Description"""""
+"","Web/App-server and Malware Sequestration Engine Integration brings the Malware Sequestration Engine manipulation functions into the context of the Web/App-server"""
+"","Hours"""
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Web/App-server and Message Engine Integration"""
+"Description"""""
+"","Web/App-server and Message Engine Integration brings the Message Engine manipulation functions into the context of the Web/App-server"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Retention Schedule and Audit/History Integration"""
+"Description"""""
+"","Retention Schedule and Audit/History Integration brings the Audit/History manipulation functions into the context of the Retention Schedule engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Retention Schedule and Activity Monitoring Integration"""
+"Description"""""
+"","Retention Schedule and Activity Monitoring Integration brings the Activity Monitoring manipulation functions into the context of the Retention Schedule engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Cartographic Engine and Geographic Information System Engine Integration"""
+"Description"""""
+"","Cartographic Engine and Geographic Information System Engine Integration brings the Geographic Information System manipulation functions into the context of the Cartographic Engine"""
+"","Hours"""
+"","Design"""
+"",0,0
+"","Develop"""
+"",0,0
+"","Implement"""
+"",0,0
+"","Test"""
+"",0,0
+"","Cartographic Engine and Photographic Image Integration"""
+"Description"""""
+"","Cartographic Engine and Photographic Image Integration brings the Photographic Image manipulation functions into the context of the Cartographic Engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Cartographic Engine and Historic Document Integration"""
+"Description"""""
+"","Cartographic Engine and Historic Document Integration brings the Historic Document manipulation functions into the context of the Cartographic Engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Cartographic Engine and Historic Places Integration"""
+"Description"""""
+"","Cartographic Engine and Historic Places Integration brings the Historic Places manipulation functions into the context of the Cartographic Engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Cartographic Engine and Historic People Integration"""
+"Description"""""
+"","Cartographic Engine and Historic People Integration brings the Historic People manipulation functions into the context of the Cartographic Engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","System Data Development"""
+"Description"""""
+"","System Data Development are those tasks necessary to define, develop, and implement the storage and manipulation of facts, figures, and symbols that describe the system and the system functions."""
+"","Basemap Data  (third party)"""
+"Description"""""
+"","Basemap data are reference map/layers. These are typically purchased or shared from third parties and are swapped out as updates are required"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Activity Data Structures"""
+"Description"""""
+"","Activity Data structures are for storing who performed which activity and when."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Audit/ History Data Structures"""
+"Description"""""
+"","Audit/History Data structures are for storing what fact, figure, or symbol was changed/updated who performed the change and when did the change occur."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","GIS Storage Configuration Data Structures"""
+"Description"""""
+"","GIS Storage Configuration Data Structures are for standardizing and conforming foreign and native geographic tables for use with a common API."""
+"","Hours"""
+"","Design"""
+"",16,16
+"","Implement"""
+"",8,8
+"","GIS Feature Data Structures"""
+"Description"""""
+"","GIS Feature Data Structures ???"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Lexicon Data Structures"""
+"Description"""""
+"","Lexicon Data Structures are for standardizing and conforming words and definitions for use with an API."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Retention Schedule Data Structures"""
+"Description"""""
+"","Retention Schedule Data Structures are for standardizing/describing how long facts, figures, and symbols are stored within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Photograph and Image Data Structures"""
+"Description"""""
+"","Photograph and Image Data Structures are for standardizing/describing how photographs and images are stored within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Historic Document Data Structures"""
+"Description"""""
+"","Historic Document Data Structures are for standardizing/describing how digital documents are stored within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Bibliography Data Structures"""
+"Description"""""
+"","Bibliography Document Data Structures are for standardizing/describing how Bibliography references are stored within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Wiki Text Data Structures"""
+"Description"""""
+"","Wiki Text Data Structures are currently unknown but some time has been allocated to them"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Invitation Data Structures"""
+"Description"""""
+"","Invitation Data Structures are for standardizing/describing how Invitations to collaborate are stored within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Instruction Data Structures"""
+"Description"""""
+"","Instruction Data Structures are for standardizing/describing how help and reference materials are stored within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","NRHP Case Data Structures"""
+"Description"""""
+"","NRHP Case Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of a NRHP nomination within the system"""
+"","No more than 32 data structures"""
+"","Hours"""
+"","Design"""
+"",192,192
+"","Implement"""
+"",64,64
+"","Archaeology Case Data Structures"""
+"Description"""""
+"","Archaeology Case Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of a Archaeology case within the system"""
+"","No more than 32 data structures"""
+"","Hours"""
+"","Design"""
+"",192,192
+"","Implement"""
+"",64,64
+"","Environmental Review Case Data Structures"""
+"Description"""""
+"","Environmental Review Case Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of a Environmental Review case within the system"""
+"","No more than 32 data structures"""
+"","Hours"""
+"","Design"""
+"",192,192
+"","Implement"""
+"",64,64
+"","Tax Credit Case Data Structures"""
+"Description"""""
+"","Tax Credit Case Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of a Tax Credit case within the system"""
+"","No more than 32 data structures"""
+"","Hours"""
+"","Design"""
+"",192,192
+"","Implement"""
+"",64,64
+"","Historic Place Data Structures"""
+"Description"""""
+"","Historic Place Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of a Historic Place asset within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Historic Person Data Structures"""
+"Description"""""
+"","Historic Person Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of a Historic Person asset within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Foreign System Data Structures"""
+"Description"""""
+"","Foreign System Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of Foreign System data within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","API Register Data Structures"""
+"Description"""""
+"","API Register Data Structures are for describing, collecting, and storing an inventory of application programming interfaces within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Cartographic Integration Data Structures"""
+"Description"""""
+"","Cartographic Integration Data Structures are for standardizing and conforming the display of cartographic maps for use within the system."""
+"","Hours"""
+"","Design"""
+"",24,24
+"","Implement"""
+"",8,8
+"","Message Data Structures"""
+"Description"""""
+"","Message Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of Messages sent, monitored, and revised within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Member Profile Data Structures"""
+"Description"""""
+"","Member Profile Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of Member Profile within the system"""
+"","Hours"""
+"","Design"""
+"",16,16
+"","Implement"""
+"",8,8
+"","Data Validation Data Structures"""
+"Description"""""
+"","Data Validation Data Structures are currently unknown but some time has been allocated to them"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Malware Sequestration Data Structures"""
+"Description"""""
+"","Malware Sequestration Data Structures are currently unknown but some time has been allocated to them"""
+"","Hours"""
+"","Design and implement"""
+"",0,0
+"","Operational Process Development"""
+"Description"""""
+"","Operational Process Development are those tasks necessary to transform business processes into a workflow system."""
+"","Operational Support Processes"""
+"Description"""""
+"","Processes and implementation used to support operations"""
+"","GIS  Location Register Process"""
+"Description"""""
+"","Process and implementation to take addresses, manually sited places and covert to digital locations as part of the metadata of historic sites"""
+"","Design"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test and Implement"""
+"",8,8
+"","Operational Process Design"""
+"Description"""""
+"","Originate process documentation to define process  inputs, function, and outputs"""
+"","Integrate changes and updates to process definition documentation over time"""
+"","Registrant Profile Process"""
+"Description"""""
+"","The Process and implementation of a self serve system registration for purposes gaining basic privileges to interact with the system."""
+"","Define Process"""
+"",24,24
+"","Document Process"""
+"",8,8
+"","Intake Design Process"""
+"Description"""""
+"","Design Intake process(s) to collect core program facts, figures, and symbols"""
+"","NRHP intake Design"""
+"","Define Process"""
+"",200,200
+"","Document Process"""
+"",24,24
+"","Archaeology intake Design"""
+"","Define Process"""
+"",200,200
+"","Document Process"""
+"",24,24
+"","Environmental Review section 106 intake Design"""
+"","Define Process"""
+"",200,200
+"","Document Process"""
+"",24,24
+"","Tax Credit intake Design"""
+"","Define Process"""
+"",200,200
+"","Document Process"""
+"",24,24
+"","Review Design Process"""
+"Description"""""
+"","Design Review process(s) to evaluate the facts, figures, and symbols collected for a core SHPO program and provide commentary and guidance to the submitter(s)"""
+"","NRHP Tax Credit process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Archaeology review process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Environmental Review section 106 review process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Tax Credit review process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Editor Design Process"""
+"Description"""""
+"","Design Editor process(s) to evaluate Review Outcomes for a core SHPO program and assure conformance with SHPO standards"""
+"","NRHP  Editing Design process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Archaeology Editing Design process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Environmental Review section 106 review Editing Design process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Tax Credit Editing Design process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Approval Design Process"""
+"Description"""""
+"","Design Approval process(s)  for a core SHPO program(s)"""
+"","NRHP  Approval Design process"""
+"","Define Process"""
+"",20,20
+"","Document Process"""
+"",8,8
+"","Archaeology Approval Design process"""
+"","Define Process"""
+"",20,20
+"","Document Process"""
+"",8,8
+"","Environmental Review section 106 Approval Design process"""
+"","Define Process"""
+"",20,20
+"","Document Process"""
+"",8,8
+"","Tax Credit Approval Design process"""
+"","Define Process"""
+"",20,20
+"","Document Process"""
+"",8,8
+"","Publishing Design Process"""
+"Description"""""
+"","Design Publishing process(s) to transfer reviewed, edited, approved facts, figures, and symbols collected for core SHPO programs to a secure digital asset database"""
+"","NRHP  Publishing Design process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Archaeology Publishing Design process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Environmental Review section 106 Publishing Design process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Tax Credit Approval Publishing process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Operational Process/workflow Development"""
+"Description"""""
+"","Translate process design into working software system"""
+"","Intake Process/workflow Development"""
+"","NRHP intake development"""
+"","Development"""
+"",128,128
+"","Archaeology intake development"""
+"","Development"""
+"",128,128
+"","Environmental Review section 106 intake development"""
+"","Development"""
+"",128,128
+"","Tax Credit intake development"""
+"","Development"""
+"",128,128
+"","Review Process/workflow Development"""
+"","NRHP Review development"""
+"","Development"""
+"",128,128
+"","Archaeology Review development"""
+"","Development"""
+"",128,128
+"","Environmental Review section 106 Review development"""
+"","Development"""
+"",128,128
+"","Tax Credit Review development"""
+"","Development"""
+"",128,128
+"","Editing Process/workflow Development"""
+"","NRHP Editing development"""
+"","Development"""
+"",128,128
+"","Archaeology Editing development"""
+"","Development"""
+"",128,128
+"","Environmental Editing section 106 Review development"""
+"","Development"""
+"",128,128
+"","Tax Credit Editing development"""
+"","Development"""
+"",128,128
+"","Approval Process/workflow Development"""
+"","NRHP Approval development"""
+"","Development"""
+"",8,8
+"","Archaeology Approval development"""
+"","Development"""
+"",8,8
+"","Environmental Approval section 106 Review development"""
+"","Development"""
+"",8,8
+"","Tax Credit Approval development"""
+"","Development"""
+"",8,8
+"","Publishing Process/workflow Development"""
+"","NRHP Publishing development"""
+"","Development"""
+"",128,128
+"","Archaeology Publishing development"""
+"","Development"""
+"",128,128
+"","Environmental Publishing section 106 Review development"""
+"","Development"""
+"",128,128
+"","Tax Credit Publishing development"""
+"","Development"""
+"",128,128
+"","Operational Process testing"""
+"Description"""""
+"","Prove the functional correctness of the workflow representing the the process"""
+"","Intake Testing"""
+"","NRHP intake Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",32,32
+"","Testing"""
+"",64,64
+"","Archaeology intake Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",32,32
+"","Testing"""
+"",64,64
+"","Environmental Review section 106 intake Testing"""
+"","Hours"""
+"","Testing"""
+"",64,64
+"","Test Case Development"""
+"",32,32
+"","Test Implementation"""
+"",8,8
+"","Tax Credit intake Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",32,32
+"","Testing"""
+"",64,64
+"","Review Testing"""
+"","NRHP Review Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Archaeology Review Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Environmental Review section 106 Review Testing"""
+"","Hours"""
+"","Testing"""
+"",16,16
+"","Test Case Development"""
+"",8,8
+"","Test Implementation"""
+"",8,8
+"","Tax Credit Review Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Editing Testing"""
+"","NRHP Editing Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Archaeology Editing Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Environmental Editing section 106 Review Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Tax Credit Editing Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Approval Testing"""
+"","NRHP Approval Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Archaeology Approval Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Environmental Approval section 106 Review Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Tax Credit Approval Testing"""
+"","Hours"""
+"","Testing"""
+"",16,16
+"","Test Case Development"""
+"",8,8
+"","Test Implementation"""
+"",8,8
+"","Publishing Testing"""
+"","NRHP Publishing Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Archaeology Publishing Testing"""
+"","Hours"""
+"","Testing"""
+"",16,16
+"","Test Case Development"""
+"",8,8
+"","Test Implementation"""
+"",8,8
+"","Environmental Publishing section 106 Review Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Tax Credit Publishing Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Test Case Development"""
+"",8,8
+"","Operational Process implementation"""
+"Description"""""
+"","Prepare software for use in a operational work environment"""
+"","Operational Process Training"""
+"Description"""""
+"","Prepare actor for using software in an operational work environment"""
+"","Configuration Training"""
+"","Hours"""
+"","Present Materials"""
+"",1,1
+"","Prepare Training materials"""
+"",20,20
+"","Workflow Training"""
+"","Hours"""
+"","Prepare Training materials"""
+"",20,20
+"","Present Materials"""
+"",1,1
+"","Process Implementation Training"""
+"","Hours"""
+"","Prepare Training materials"""
+"",20,20
+"","Present Materials"""
+"",1,1
+"","Workflow Screen Design Training"""
+"","Hours"""
+"","Prepare Training materials"""
+"",20,20
+"","Present Materials"""
+"",1,1
+"","Operations Management Training"""
+"","Hours"""
+"","Prepare Training materials"""
+"",20,20
+"","Present Materials"""
+"",1,1
+"","Operations Training"""
+"","Understanding Intake"""
+"","Hours"""
+"","Prepare Training materials"""
+"",20,20
+"","Present Materials"""
+"",1,1
+"","Understanding Review"""
+"","Hours"""
+"","Present Materials"""
+"",1,1
+"","Prepare Training materials"""
+"",20,20
+"","Understanding Editing"""
+"","Hours"""
+"","Prepare Training materials"""
+"",20,20
+"","Present Materials"""
+"",1,1
+"","Understanding Approval"""
+"","Hours"""
+"","Present Materials"""
+"",1,1
+"","Prepare Training materials"""
+"",20,20
+"","Understanding Publication"""
+"","Hours"""
+"","Prepare Training materials"""
+"",20,20
+"","Present Materials"""
+"",1,1
+"","Operational Process Management"""
+"Description"""""
+"","Use, monitor, and adjust, software in a work environment"""
+"","Operations Management"""
+"","Actor/Access Management"""
+"Description"""""
+"","A common system for  managing none personally identifying actor information including deactivation of actor accounts, granting elevated permissions, purging unused actor accounts"""
+"","NRHP Actor Management"""
+"","Archaeology Actor Management"""
+"","Environmental Review Section 106  Actor Management"""
+"","Tax Credit Actor Management"""
+"","Workflow Monitoring"""
+"Description"""""
+"","A common system for monitoring the progression and current state of an individual or group of workflow cases"""
+"","NRHP Workflow Monitoring"""
+"","Archaeology Workflow Monitoring"""
+"","Environmental Review Section 106 Workflow Monitoring"""
+"","Tax Credit Workflow Monitoring"""
+"","Case Management"""
+"Description"""""
+"","Manage current cases in terms data inputs, actor communications and relationships in conformance with SHPO norms"""
+"","NRHP Case Management"""
+"","Archaeology Case Management"""
+"","Environmental Review Section 106 Case Management"""
+"","Tax Credit Case Management"""
+"","Digital Asset Management"""
+"Description"""""
+"","Manage the life cycle of digital assets post creation"""
+"","NRHP Digital Asset Management"""
+"","Archaeology Digital Asset Management"""
+"","Environmental Review Section 106 Digital Asset Management"""
+"","Tax Credit Digital Asset Management"""
+"","Intake Process"""
+"Description"""""
+"","Design, configure, modify, and test all intake screens and data needed to represent all intake related workflow and sub-workflow tasks."""
+"","NRHP Intake Process"""
+"","Archaeology Intake Process"""
+"","Environmental Review Section 106 Intake Process"""
+"","Tax Credit Intake Process"""
+"","Review Process"""
+"Description"""""
+"","Design, configure, modify, and test all review screens and data needed to represent all review related workflow and sub-workflow tasks."""
+"","The review process focuses on the performance of the submitter, with a view to improving quality, and upholding standards for submissions."""
+"","NRHP Review Process"""
+"","Archaeology Review Process"""
+"","Environmental Review Section 106 Intake Process"""
+"","Tax Credit Review Process"""
+"","Edit Process"""
+"Description"""""
+"","Design, configure, modify, and test all editor screens and data needed to represent all edit related workflow and sub-workflow tasks."""
+"","The editing process can involve correction, condensation, organization, and other modifications performed with an intention of producing a correct,consistent, accurate and complete work."""
+"","NRHP Edit Process"""
+"","Archaeology Edit Process"""
+"","Environmental Review Section 106 Edit Process"""
+"","Tax Credit Edit Process"""
+"","Approval Process"""
+"Description"""""
+"","Design, configure, modify, and test all approval screens and data needed to represent all approval related workflow and sub-workflow tasks."""
+"","NRHP Approval Process"""
+"","Archaeology Approval Process"""
+"","Environmental Review Section 106 Approval Process"""
+"","Tax Credit Approval Process"""
+"","Electronic Publication Process"""
+"Description"""""
+"","Design, configure, modify, and test all Publication screens and data needed to represent all Publication related workflow and sub-workflow tasks."""
+"","NRHP Publishing Process"""
+"","Electronic Document publishing"""
+"","Word document"""
+"","Full data disclosure"""
+"","PII redacted data"""
+"","Html document"""
+"","Digital Asset Publishing"""
+"","Open data table"""
+"","Open PII Redacted data table"""
+"","Protected data table"""
+"","Archaeology Publishing Process"""
+"","Electronic Document publishing"""
+"","Word document"""
+"","Full data disclosure"""
+"","PII redacted data"""
+"","Html document"""
+"","Digital Asset Publishing"""
+"","Open data table"""
+"","Open PII Redacted data table"""
+"","Protected data table"""
+"","Environmental Review Section 106 Publishing Process"""
+"","Electronic Document publishing"""
+"","Word document"""
+"","Full data disclosure"""
+"","PII redacted data"""
+"","Html document"""
+"","Digital Asset Publishing"""
+"","Open data table"""
+"","Open PII Redacted data table"""
+"","Protected data table"""
+"","Tax Credit Publishing Process"""
+"","Electronic Document publishing"""
+"","Word document"""
+"","Full data disclosure"""
+"","PII redacted data"""
+"","Html document"""
+"","Digital Asset Publishing"""
+"","Publish to Open data table"""
+"","Publish to Open PII Redacted data table"""
+"","Publish to Protected data table"""
+"","Data Migration"""
+"Description"""""
+"","Data Migration are those tasks necessary to transfer or transform the SHPO's current paper, and digital assets into the  system."""
+"","Argus System Export and Salvage"""
+"Description"""""
+"","Argus System Export and Salvage are those task necessary to salvage facts, figures, and symbols from the Argus System, and prepare/import those data into the new system."""
+"","Note: the current Argus system is more along the lines of an inventory with some modest process data collection.  This data might be better transformed into digital assets rather than running it through the process."""
+"","Evaluate Argus Data Structures"""
+"","Hours"""
+"",0,0
+"","Verification of Argus Data"""
+"","Hours"""
+"",0,0
+"","Cleansing of Argus Data"""
+"","Hours"""
+"",0,0
+"","Preparation of Argus to MiSHPO data transfer"""
+"","Hours"""
+"",0,0
+"","Implementation of Argus Data Transfer"""
+"","Hours"""
+"",0,0
+"","USGS Archaeology Map Digitization"""
+"Description"""""
+"","Need description"""
+"","USGS Scanning"""
+"","Units"""
+"","USGS Quadrangle Map Units"""
+"",1300,1300
+"","Heads up digitizing"""
+"","Units"""
+"","USGS Quadrangle Raster Map Units"""
+"",1300,1300
+"","Hours"""
+"","Register and Digitize"""
+"",1300,1300
+"","Resources"""
+"","Human Resources"""
+"Description"""""
+"","Human Resources are those people with the knowledge and technical skills needed to plan, design, develop, implement, and manage a software system"""
+"","Subject matter experts"""
+"","Argus"""
+"","NRHP"""
+"","Archaeology"""
+"","Tax Credits"""
+"","Environmental review section 106"""
+"","Geographic information systems specialist"""
+"","User Interface Designer"""
+"","System Integrator"""
+"","Process Designer"""
+"","Software developer"""
+"","System implementer"""
+"","Project Manager"""
+"","Business Analyst"""
+"","Database administrator"""
+"","Overview"""
+"Description"""""
+"","MiSHPO  or the system is conceived as software to facilitate the building and maintaining of workable, secure, and controlled processes, collaborate with individuals, contractors, and consultant, ensure accountability and efficiency in the preparation of the documentation of Michigan historic places and fulfill the SHPO mission to protect historic resources and encourage economic reuse."""
+"","System Parts"""
+"","Commercial Services"""
+"Description"""""
+"","Commercial Services are those services that are deemed beyond the scope of the project but can be provided by a third party."""
+"","Open Data and API Hosting"""
+"Description"""""
+"","Enterprise Service to provide a software function over the internet"""
+"","Units"""
+"","4 yrs of Hosting Units"""
+"",4,4
+"","Web Services"""
+"Description"""""
+"","Subscription Service to provide a software function over the internet"""
+"","Third party Geocoding WebService"""
+"Description"""""
+"","A commercial service delivered over the internet to that converts an address to a geographic coordinate."""
+"","Units"""
+"","Geocoding Units"""
+"",4,4
+"","Commercial/Open Source Off the Shelf Software"""
+"Description"""""
+"","Commercial/Open Source Off the Shelf Software are those software functions and methods that are deemed beyond the scope of the project software development but can be provided by a third party."""
+"","Process design software"""
+"Description"""""
+"","Process design software allows actors to design and document business processes to the point where it is ready to be implemented as operational workflow."""
+"","Units"""
+"","Process Design Software Units"""
+"",4,4
+"","Workflow Engine"""
+"Description"""""
+"","Workflow engine is software that operationalizes process into the  steps and tasks needed to intake data and output a quality digital asset ."""
+"","Units"""
+"","Workflow Engine Development Units"""
+"",1,1
+"","Workflow Engine Test Units"""
+"",1,1
+"","Workflow Engine Production Units"""
+"",1,1
+"","Database Engine"""
+"Description"""""
+"","Database Engine software acts as a conduit and means of manipulation of stored facts, figures, and symbols"""
+"","Units"""
+"","Database Engine Development Units"""
+"",1,1
+"","Database Engine Test Units"""
+"",1,1
+"","Database Engine Production Units"""
+"",1,1
+"","Web/Application Engine"""
+"Description"""""
+"","Web/Application Engine is utility software that supports and extends an application for use on the internet/intranet/extranet ."""
+"","Units"""
+"","Web/Application Engine Development Units"""
+"",1,1
+"","Web/Application Engine Test Units"""
+"",1,1
+"","Web/Application Engine Development Units"""
+"",1,1
+"","Cartographic Engine"""
+"Description"""""
+"","Cartographic Engine relates to the compilation, display, and manipulation  of geographically encoded symbols in an interactive way."""
+"","Units"""
+"","Database Development Units"""
+"",1,1
+"","Database Test Units"""
+"",1,1
+"","Database Production Units"""
+"",1,1
+"","Geographic Information System Engine"""
+"Description"""""
+"","GIS Engine is special software to store, format, manipulate geographically encoded symbols."""
+"","Units"""
+"","Geographic Information System Engine Units Development Units"""
+"",1,1
+"","Geographic Information System Engine Units Test Units"""
+"",1,1
+"","Geographic Information System Engine Units Production Units"""
+"",1,1
+"","Malware Sequestration Engine"""
+"Description"""""
+"","Malware Sequestration Engine is a set of software techniques and tools for intercepting document and images files scanning for malware, and sequestering malware infected files."""
+"","Units"""
+"","Malware Sequestration Production Units"""
+"",1,1
+"","Application Programming Interface Framework"""
+"Description"""""
+"","Application Programming Interface Framework is a set of software techniques and tools that facilitate or automate the  creation of APIs"""
+"","Units"""
+"","Application Programming Interface Framework Development Units"""
+"",1,1
+"","Application Programming Interface Framework Test Units"""
+"",1,1
+"","Application Programming Interface Framework Production Units"""
+"",1,1
+"","Existing Resources"""
+"Description"""""
+"","Existing Resources are those Materials, services, staff, or other anticipated assets that will benefit the system and are currently available within the SOM ecosystem.  Availability does not mean the resources must be used but rather that may be used."""
+"","Hardware"""
+"Description"""""
+"","A collection of physical elements that constitute the computer system"""
+"","Database server computer"""
+"","Units"""
+"","Database  Development Server Units"""
+"",0,0
+"","Database  Test Server Units"""
+"",0,0
+"","Database  Production Server Units"""
+"",0,0
+"","Application server computer"""
+"","Units"""
+"","Application Development Server Units"""
+"",0,0
+"","Application Test Server Units"""
+"",0,0
+"","Application Production Server Units"""
+"",1,1
+"","API Service Server"""
+"","Units"""
+"","API Service  Development Server Units"""
+"",0,0
+"","API Service  Test Server Units"""
+"",0,0
+"","API Service  Production Server Units"""
+"",1,1
+"","Digital Storage"""
+"","Units"""
+"","Digital Storage Units (GB)"""
+"",500,500
+"","Security"""
+"Description"""""
+"","Encryption and secure facility for hardware, software and data"""
+"","SSL certificate"""
+"","Units"""
+"","SSL Certificate Development Units"""
+"",0,0
+"","SSL Certificate Test Units"""
+"",0,0
+"","SSL Certificate Production Units"""
+"",1,1
+"","Secure facility"""
+"","Units"""
+"","Secure Facility Unit"""
+"",0,0
+"","Software"""
+"Description"""""
+"","Machine readable instructions that direct a computer's operations"""
+"","Desktop GIS software"""
+"","Units"""
+"","Desktop GIS MapInfo Units"""
+"",0,0
+"","Desktop GIS ArcView Units"""
+"",0,0
+"","Enterprise SharePoint Installation"""
+"","Units"""
+"","SharePoint Development Units"""
+"",0,0
+"","SharePoint Test Units"""
+"",0,0
+"","SharePoint Production Units"""
+"",0,0
+"","Environment Initialization"""
+"Description"""""
+"","Environment Initialization are those tasks necessary to bring a system to the point where  it can begin to be extended, modified, configured,  developed, or tested to support the proper function of the system."""
+"","Install Workflow Engine"""
+"","Install Development Workflow Engine"""
+"","Hours"""
+"","Configure"""
+"",8,8
+"","Test"""
+"",8,8
+"","Install Test Workflow Engine"""
+"","Hours"""
+"","Test"""
+"",8,8
+"","Configure"""
+"",8,8
+"","Install Production Workflow Engine"""
+"","Hours"""
+"","Test"""
+"",8,8
+"","Configure"""
+"",8,8
+"","Install Database Engine"""
+"","Install Development Database Engine"""
+"","Hours"""
+"","Configure"""
+"",8,8
+"","Test"""
+"",8,8
+"","Install Test Database Engine"""
+"","Hours"""
+"","Test"""
+"",8,8
+"","Configure"""
+"",8,8
+"","Install Production Database Engine"""
+"","Hours"""
+"","Test"""
+"",8,8
+"","Configure"""
+"",8,8
+"","Install Web/Application Engine"""
+"","Install Development Web/Application Engine"""
+"","Hours"""
+"","Configure"""
+"",8,8
+"","Test"""
+"",8,8
+"","Install Test Web/Application Engine"""
+"","Hours"""
+"","Configure"""
+"",8,8
+"","Test"""
+"",8,8
+"","Install Production Web/Application Engine"""
+"","Hours"""
+"","Configure"""
+"",8,8
+"","Test"""
+"",8,8
+"","Install Cartographic Engine"""
+"","Install Development Cartographic Engine"""
+"","Hours"""
+"","Configure"""
+"",8,8
+"","Test"""
+"",8,8
+"","Install Test Cartographic Engine"""
+"","Hours"""
+"","Test"""
+"",8,8
+"","Configure"""
+"",8,8
+"","Install Production Cartographic Engine"""
+"","Hours"""
+"","Test"""
+"",8,8
+"","Configure"""
+"",8,8
+"","Install GIS Engine"""
+"","Install Development GIS Engine"""
+"","Hours"""
+"","Test"""
+"",0,0
+"","Configure"""
+"",0,0
+"","Install Test GIS Engine"""
+"","Hours"""
+"","Test"""
+"",0,0
+"","Configure"""
+"",0,0
+"","Install Production GIS Engine"""
+"","Hours"""
+"","Test"""
+"",0,0
+"","Configure"""
+"",0,0
+"","Harden Servers"""
+"","Harden Test Servers"""
+"","Hours"""
+"","App/web server"""
+"",20,20
+"","Database Server"""
+"",20,20
+"","Harden Production Servers"""
+"","Hours"""
+"","Configure Firewalls"""
+"",8,8
+"","Database Server"""
+"",20,20
+"","App/web server"""
+"",20,20
+"","Encryption"""
+"",8,8
+"","System Development"""
+"Description"""""
+"","System Development are those tasks necessary to create Custom software that is NOT available off the shelf"""
+"","Audit/History Engine"""
+"Description"""""
+"","Process and implementation of recording system and actor initiated changes to data upon update over time for purposes of auditing, verification of activity, and actor management."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Activity Engine"""
+"Description"""""
+"","Process of recording system and actor initiated activities within the system over time for purposes of auditing, verification of activity, and actor management."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Lexicon Engine"""
+"Description"""""
+"","Process and implementation to take words specific to the SHPO and historic places, create definitions and turn those around to augment other SHPO and historic publications."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Retention Schedule Engine"""
+"Description"""""
+"","Process and implementation to take each fact, figure or symbol and define its lifecycle with regards to the SOM retention schedule methodology, monitor the fact, figure, or symbol until it can purged from the system."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Historic Photograph and Images Engine"""
+"Description"""""
+"","Process and implementation to take a photograph or digital image file, assist in establishing metadata to describe the geographic location, photographer, ..., and output a digital asset."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Historic Documents Engine"""
+"Description"""""
+"","Process and implementation to take a  digital document file, assist in establishing metadata to describe the geographic location, authorship, ..., and output a digital asset."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Bibliograpy Engine"""
+"Description"""""
+"","Process and implementation to record bibliographic references with regards to documentation of historic significance of a place."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Wiki Text Engine"""
+"Description"""""
+"","Provides wiki like formatting to encode references to bibliography, lexicon, and Geographic location."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Invitation Engine"""
+"Description"""""
+"","The Process and implementation of a facebook like system to invite other registrant actors to participate in system activities."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Geographic Data Integration System"""
+"Description"""""
+"","Provides configuration, standard tables, layered map display and query  methods for geographic features."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Instruction Engine"""
+"Description"""""
+"","The Process and implementation to take short descriptions create, read, update, delete, and store store for instructional purposes within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Search Engine"""
+"Description"""""
+"","Hours"""
+"","Data Validation Engine"""
+"","Data Validation Process"""
+"Description"""""
+"","Provide consistent methodical validation of inputs to ensure high quality outputs"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Data Definition and Continuity Engine"""
+"Description"""""
+"","The process and implementation of a data definition system to produce data tables and facilitate data structure changes and data migration do to process improvement."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Historic Place Engine"""
+"Description"""""
+"","Process and implementation to locate a historic place, assist in establishing metadata to describe the geographic location, name (s), historic significance,..., and output a digital asset."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Message Engine"""
+"Description"""""
+"","Process and implementation to intercept, collect for purposes of rewriting, rerouting, and approval."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Historic Person Engine"""
+"Description"""""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Cartographic Integration Management Engine"""
+"Description"""""
+"","Provide consistent methodology for configuring individual interactive maps for use in workflow and search output"""
+"","Cartographic Map Configuration"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",40,40
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Standard Map Manipulation Tool Configuration"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",40,40
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Standard Map Table Structure Definition"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",40,40
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Cartographic Layer Configuration"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",40,40
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Cartographic Configuration Management"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",40,40
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Foreign System Registration Management"""
+"Description"""""
+"","Process and implementation of a  Register of foreign/external systems using the API's and data of the system."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","API Registration Management"""
+"Description"""""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","System Registration Engine"""
+"Description"""""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test"""
+"",8,8
+"","Implement"""
+"",8,8
+"","System Integration"""
+"Description"""""
+"","System Integration are those tasks necessary to connect parts of the system currently unconnected creating a functional whole."""
+"","Workflow Engine and Cartographic Integration"""
+"Description"""""
+"","Workflow Engine and Cartographic Integration Brings the cartographic display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",80,80
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow and Historic Place Register Integration"""
+"Description"""""
+"","Workflow and Historic Place Register Integration brings  the historic place register display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",20,20
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Data Continuity Integration"""
+"Description"""""
+"","Workflow Engine and Data Continuity Integration brings the Data Continuity manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",20,20
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Malware Sequestration Engine Integration"""
+"Description"""""
+"","Workflow Engine and Malware Sequestration Engine Integration brings the Malware Sequestration manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",80,80
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Audit/History Integration"""
+"Description"""""
+"","Workflow Engine and Audit/History Integration brings the Audit/History display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Activity Monitoring Integration"""
+"Description"""""
+"","Workflow Engine and Activity Monitoring Integration brings the Activity Monitoring display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Database Integration"""
+"Description"""""
+"","Workflow Engine and Database Integration brings the Database  definition and manipulation functions into the context of the workflow design screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Lexicon integration"""
+"Description"""""
+"","Workflow Engine and Lexicon integration brings the Lexicon display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Retention Schedule Integration"""
+"Description"""""
+"","Workflow Engine and Retention Schedule Integration brings the Retention Schedule display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Photograph and image Register Integration"""
+"Description"""""
+"","Workflow Engine and Photograph and image Register Integration brings the Photograph and image Register display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Document Register Integration"""
+"Description"""""
+"","Workflow Engine and Document Register Integration brings the Document Register display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Bibliography Integration"""
+"Description"""""
+"","Workflow Engine and Bibliography Integration brings the Bibliography display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine Engine and Wiki Text Integration"""
+"Description"""""
+"","Workflow Engine Engine and Wiki Text Integration brings the Wiki Text display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Invitation Integration"""
+"Description"""""
+"","Workflow Engine and Invitation Integration brings the Invitation display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Instruction Integration"""
+"Description"""""
+"","Workflow Engine and Instruction Integration brings the Instruction display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Data Validation Integration"""
+"Description"""""
+"","Workflow Engine and Data Validation Integration brings the Instruction display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Foreign System Register Integration"""
+"Description"""""
+"","Workflow Engine and Foreign System Register Integration brings the Foreign System Register display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and Message Integration"""
+"Description"""""
+"","Workflow Engine and Message Integration brings the Message display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Workflow Engine and API Register Integration"""
+"Description"""""
+"","Workflow Engine and API Register Integration brings the API Register display and manipulation functions into the context of the workflow screens"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and GIS Integration"""
+"Description"""""
+"","Database Engine and GIS Integration brings the GIS manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",0,0
+"","Develop"""
+"",0,0
+"","Implement"""
+"",0,0
+"","Test"""
+"",0,0
+"","Database Engine and Retention Schedule Integration"""
+"Description"""""
+"","Database Engine and Retention Schedule Integration brings the Retention Schedule manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Photograph and Image Integration"""
+"Description"""""
+"","Database Engine and Photograph and Image Integration brings the Photograph and Image display and manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Historic Document Integration"""
+"Description"""""
+"","Database Engine and Historic Document Integration brings the Historic Document display and manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Cartographic Integration Management Integration"""
+"Description"""""
+"","Database Engine and Cartographic Integration Management Integration brings the Cartographic Integration Management display and manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Search Integration"""
+"Description"""""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Data Continuity Integration"""
+"Description"""""
+"","Database Engine and Data Continuity Integration brings  the Data Continuity manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Audit/History Integration"""
+"Description"""""
+"","Database Engine and Audit/History Integration brings the Audit/History manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Activity Integration"""
+"Description"""""
+"","Database Engine and Activity Integration brings  the Audit manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Bibliography Integration"""
+"Description"""""
+"","Database Engine and Bibliography Integration brings the Bibliography manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Lexicon Integration"""
+"Description"""""
+"","Database Engine and Lexicon Integration brings the Lexicon manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Wiki Text Integration"""
+"Description"""""
+"","Database Engine and Wiki Text Integration brings the Wiki Text manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Invitation Integration"""
+"Description"""""
+"","Database Engine and Invitation Integration brings the Invitation manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Instruction Integration"""
+"Description"""""
+"","Database Engine and Instruction Integration brings the Data Validation manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Web/Application Server Integration"""
+"Description"""""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Data Validation Integration"""
+"Description"""""
+"","Database Engine and Data Validation Integration brings the Instruction manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Message Integration"""
+"Description"""""
+"","Database Engine and Message Integration brings the Message manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and API Register Integration"""
+"Description"""""
+"","Database Engine and API Register Integration brings the API Register manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Database Engine and Foreign System Register Integration"""
+"Description"""""
+"","Database Engine and Foreign System Register Integration  brings the Foreign System Register manipulation functions into the context of the Database engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Web/App-server and Database Engine Integration"""
+"Description"""""
+"","Web/App-server and Database Engine Integration brings the database connectivity and  functions via configuration into the context of the Web/App-server"""
+"","Hours"""
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Web/App-server and Cartographic Engine Integration"""
+"Description"""""
+"","Web/App-server and Cartographic Engine Integration brings the Cartographic Engine manipulation functions into the context of the Web/App-server"""
+"","Hours"""
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Web/App-server and Search Engine Integration"""
+"Description"""""
+"","Web/App-server and Search Engine Integration brings the Search Engine manipulation functions into the context of the Web/App-server"""
+"","Hours"""
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Web/App-server and Malware Sequestration Engine Integration"""
+"Description"""""
+"","Web/App-server and Malware Sequestration Engine Integration brings the Malware Sequestration Engine manipulation functions into the context of the Web/App-server"""
+"","Hours"""
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Web/App-server and Message Engine Integration"""
+"Description"""""
+"","Web/App-server and Message Engine Integration brings the Message Engine manipulation functions into the context of the Web/App-server"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Retention Schedule and Audit/History Integration"""
+"Description"""""
+"","Retention Schedule and Audit/History Integration brings the Audit/History manipulation functions into the context of the Retention Schedule engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Retention Schedule and Activity Monitoring Integration"""
+"Description"""""
+"","Retention Schedule and Activity Monitoring Integration brings the Activity Monitoring manipulation functions into the context of the Retention Schedule engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Cartographic Engine and Geographic Information System Engine Integration"""
+"Description"""""
+"","Cartographic Engine and Geographic Information System Engine Integration brings the Geographic Information System manipulation functions into the context of the Cartographic Engine"""
+"","Hours"""
+"","Design"""
+"",0,0
+"","Develop"""
+"",0,0
+"","Implement"""
+"",0,0
+"","Test"""
+"",0,0
+"","Cartographic Engine and Photographic Image Integration"""
+"Description"""""
+"","Cartographic Engine and Photographic Image Integration brings the Photographic Image manipulation functions into the context of the Cartographic Engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Cartographic Engine and Historic Document Integration"""
+"Description"""""
+"","Cartographic Engine and Historic Document Integration brings the Historic Document manipulation functions into the context of the Cartographic Engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Cartographic Engine and Historic Places Integration"""
+"Description"""""
+"","Cartographic Engine and Historic Places Integration brings the Historic Places manipulation functions into the context of the Cartographic Engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","Cartographic Engine and Historic People Integration"""
+"Description"""""
+"","Cartographic Engine and Historic People Integration brings the Historic People manipulation functions into the context of the Cartographic Engine"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Develop"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Test"""
+"",8,8
+"","System Data Development"""
+"Description"""""
+"","System Data Development are those tasks necessary to define, develop, and implement the storage and manipulation of facts, figures, and symbols that describe the system and the system functions."""
+"","Basemap Data  (third party)"""
+"Description"""""
+"","Basemap data are reference map/layers. These are typically purchased or shared from third parties and are swapped out as updates are required"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Activity Data Structures"""
+"Description"""""
+"","Activity Data structures are for storing who performed which activity and when."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Audit/ History Data Structures"""
+"Description"""""
+"","Audit/History Data structures are for storing what fact, figure, or symbol was changed/updated who performed the change and when did the change occur."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","GIS Storage Configuration Data Structures"""
+"Description"""""
+"","GIS Storage Configuration Data Structures are for standardizing and conforming foreign and native geographic tables for use with a common API."""
+"","Hours"""
+"","Design"""
+"",16,16
+"","Implement"""
+"",8,8
+"","GIS Feature Data Structures"""
+"Description"""""
+"","GIS Feature Data Structures ???"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Lexicon Data Structures"""
+"Description"""""
+"","Lexicon Data Structures are for standardizing and conforming words and definitions for use with an API."""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Retention Schedule Data Structures"""
+"Description"""""
+"","Retention Schedule Data Structures are for standardizing/describing how long facts, figures, and symbols are stored within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Photograph and Image Data Structures"""
+"Description"""""
+"","Photograph and Image Data Structures are for standardizing/describing how photographs and images are stored within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Historic Document Data Structures"""
+"Description"""""
+"","Historic Document Data Structures are for standardizing/describing how digital documents are stored within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Bibliography Data Structures"""
+"Description"""""
+"","Bibliography Document Data Structures are for standardizing/describing how Bibliography references are stored within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Wiki Text Data Structures"""
+"Description"""""
+"","Wiki Text Data Structures are currently unknown but some time has been allocated to them"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Invitation Data Structures"""
+"Description"""""
+"","Invitation Data Structures are for standardizing/describing how Invitations to collaborate are stored within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Instruction Data Structures"""
+"Description"""""
+"","Instruction Data Structures are for standardizing/describing how help and reference materials are stored within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","NRHP Case Data Structures"""
+"Description"""""
+"","NRHP Case Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of a NRHP nomination within the system"""
+"","No more than 32 data structures"""
+"","Hours"""
+"","Design"""
+"",192,192
+"","Implement"""
+"",64,64
+"","Archaeology Case Data Structures"""
+"Description"""""
+"","Archaeology Case Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of a Archaeology case within the system"""
+"","No more than 32 data structures"""
+"","Hours"""
+"","Design"""
+"",192,192
+"","Implement"""
+"",64,64
+"","Environmental Review Case Data Structures"""
+"Description"""""
+"","Environmental Review Case Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of a Environmental Review case within the system"""
+"","No more than 32 data structures"""
+"","Hours"""
+"","Design"""
+"",192,192
+"","Implement"""
+"",64,64
+"","Tax Credit Case Data Structures"""
+"Description"""""
+"","Tax Credit Case Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of a Tax Credit case within the system"""
+"","No more than 32 data structures"""
+"","Hours"""
+"","Design"""
+"",192,192
+"","Implement"""
+"",64,64
+"","Historic Place Data Structures"""
+"Description"""""
+"","Historic Place Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of a Historic Place asset within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Historic Person Data Structures"""
+"Description"""""
+"","Historic Person Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of a Historic Person asset within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Foreign System Data Structures"""
+"Description"""""
+"","Foreign System Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of Foreign System data within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","API Register Data Structures"""
+"Description"""""
+"","API Register Data Structures are for describing, collecting, and storing an inventory of application programming interfaces within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Cartographic Integration Data Structures"""
+"Description"""""
+"","Cartographic Integration Data Structures are for standardizing and conforming the display of cartographic maps for use within the system."""
+"","Hours"""
+"","Design"""
+"",24,24
+"","Implement"""
+"",8,8
+"","Message Data Structures"""
+"Description"""""
+"","Message Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of Messages sent, monitored, and revised within the system"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Member Profile Data Structures"""
+"Description"""""
+"","Member Profile Data Structures are for standardizing/describing the facts, figures, and symbols needed to describe the storage of Member Profile within the system"""
+"","Hours"""
+"","Design"""
+"",16,16
+"","Implement"""
+"",8,8
+"","Data Validation Data Structures"""
+"Description"""""
+"","Data Validation Data Structures are currently unknown but some time has been allocated to them"""
+"","Hours"""
+"","Design"""
+"",8,8
+"","Implement"""
+"",8,8
+"","Malware Sequestration Data Structures"""
+"Description"""""
+"","Malware Sequestration Data Structures are currently unknown but some time has been allocated to them"""
+"","Hours"""
+"","Design and implement"""
+"",0,0
+"","Operational Process Development"""
+"Description"""""
+"","Operational Process Development are those tasks necessary to transform business processes into a workflow system."""
+"","Operational Support Processes"""
+"Description"""""
+"","Processes and implementation used to support operations"""
+"","GIS  Location Register Process"""
+"Description"""""
+"","Process and implementation to take addresses, manually sited places and covert to digital locations as part of the metadata of historic sites"""
+"","Design"""
+"",8,8
+"","APIs"""
+"",8,8
+"","Test and Implement"""
+"",8,8
+"","Operational Process Design"""
+"Description"""""
+"","Originate process documentation to define process  inputs, function, and outputs"""
+"","Integrate changes and updates to process definition documentation over time"""
+"","Registrant Profile Process"""
+"Description"""""
+"","The Process and implementation of a self serve system registration for purposes gaining basic privileges to interact with the system."""
+"","Define Process"""
+"",24,24
+"","Document Process"""
+"",8,8
+"","Intake Design Process"""
+"Description"""""
+"","Design Intake process(s) to collect core program facts, figures, and symbols"""
+"","NRHP intake Design"""
+"","Define Process"""
+"",200,200
+"","Document Process"""
+"",24,24
+"","Archaeology intake Design"""
+"","Define Process"""
+"",200,200
+"","Document Process"""
+"",24,24
+"","Environmental Review section 106 intake Design"""
+"","Define Process"""
+"",200,200
+"","Document Process"""
+"",24,24
+"","Tax Credit intake Design"""
+"","Define Process"""
+"",200,200
+"","Document Process"""
+"",24,24
+"","Review Design Process"""
+"Description"""""
+"","Design Review process(s) to evaluate the facts, figures, and symbols collected for a core SHPO program and provide commentary and guidance to the submitter(s)"""
+"","NRHP Tax Credit process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Archaeology review process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Environmental Review section 106 review process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Tax Credit review process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Editor Design Process"""
+"Description"""""
+"","Design Editor process(s) to evaluate Review Outcomes for a core SHPO program and assure conformance with SHPO standards"""
+"","NRHP  Editing Design process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Archaeology Editing Design process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Environmental Review section 106 review Editing Design process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Tax Credit Editing Design process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Approval Design Process"""
+"Description"""""
+"","Design Approval process(s)  for a core SHPO program(s)"""
+"","NRHP  Approval Design process"""
+"","Define Process"""
+"",20,20
+"","Document Process"""
+"",8,8
+"","Archaeology Approval Design process"""
+"","Define Process"""
+"",20,20
+"","Document Process"""
+"",8,8
+"","Environmental Review section 106 Approval Design process"""
+"","Define Process"""
+"",20,20
+"","Document Process"""
+"",8,8
+"","Tax Credit Approval Design process"""
+"","Define Process"""
+"",20,20
+"","Document Process"""
+"",8,8
+"","Publishing Design Process"""
+"Description"""""
+"","Design Publishing process(s) to transfer reviewed, edited, approved facts, figures, and symbols collected for core SHPO programs to a secure digital asset database"""
+"","NRHP  Publishing Design process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Archaeology Publishing Design process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Environmental Review section 106 Publishing Design process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Tax Credit Approval Publishing process"""
+"","Define Process"""
+"",40,40
+"","Document Process"""
+"",8,8
+"","Operational Process/workflow Development"""
+"Description"""""
+"","Translate process design into working software system"""
+"","Intake Process/workflow Development"""
+"","NRHP intake development"""
+"","Development"""
+"",128,128
+"","Archaeology intake development"""
+"","Development"""
+"",128,128
+"","Environmental Review section 106 intake development"""
+"","Development"""
+"",128,128
+"","Tax Credit intake development"""
+"","Development"""
+"",128,128
+"","Review Process/workflow Development"""
+"","NRHP Review development"""
+"","Development"""
+"",128,128
+"","Archaeology Review development"""
+"","Development"""
+"",128,128
+"","Environmental Review section 106 Review development"""
+"","Development"""
+"",128,128
+"","Tax Credit Review development"""
+"","Development"""
+"",128,128
+"","Editing Process/workflow Development"""
+"","NRHP Editing development"""
+"","Development"""
+"",128,128
+"","Archaeology Editing development"""
+"","Development"""
+"",128,128
+"","Environmental Editing section 106 Review development"""
+"","Development"""
+"",128,128
+"","Tax Credit Editing development"""
+"","Development"""
+"",128,128
+"","Approval Process/workflow Development"""
+"","NRHP Approval development"""
+"","Development"""
+"",8,8
+"","Archaeology Approval development"""
+"","Development"""
+"",8,8
+"","Environmental Approval section 106 Review development"""
+"","Development"""
+"",8,8
+"","Tax Credit Approval development"""
+"","Development"""
+"",8,8
+"","Publishing Process/workflow Development"""
+"","NRHP Publishing development"""
+"","Development"""
+"",128,128
+"","Archaeology Publishing development"""
+"","Development"""
+"",128,128
+"","Environmental Publishing section 106 Review development"""
+"","Development"""
+"",128,128
+"","Tax Credit Publishing development"""
+"","Development"""
+"",128,128
+"","Operational Process testing"""
+"Description"""""
+"","Prove the functional correctness of the workflow representing the the process"""
+"","Intake Testing"""
+"","NRHP intake Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",32,32
+"","Testing"""
+"",64,64
+"","Archaeology intake Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",32,32
+"","Testing"""
+"",64,64
+"","Environmental Review section 106 intake Testing"""
+"","Hours"""
+"","Testing"""
+"",64,64
+"","Test Case Development"""
+"",32,32
+"","Test Implementation"""
+"",8,8
+"","Tax Credit intake Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",32,32
+"","Testing"""
+"",64,64
+"","Review Testing"""
+"","NRHP Review Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Archaeology Review Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Environmental Review section 106 Review Testing"""
+"","Hours"""
+"","Testing"""
+"",16,16
+"","Test Case Development"""
+"",8,8
+"","Test Implementation"""
+"",8,8
+"","Tax Credit Review Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Editing Testing"""
+"","NRHP Editing Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Archaeology Editing Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Environmental Editing section 106 Review Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Tax Credit Editing Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Approval Testing"""
+"","NRHP Approval Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Archaeology Approval Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Environmental Approval section 106 Review Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Tax Credit Approval Testing"""
+"","Hours"""
+"","Testing"""
+"",16,16
+"","Test Case Development"""
+"",8,8
+"","Test Implementation"""
+"",8,8
+"","Publishing Testing"""
+"","NRHP Publishing Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Archaeology Publishing Testing"""
+"","Hours"""
+"","Testing"""
+"",16,16
+"","Test Case Development"""
+"",8,8
+"","Test Implementation"""
+"",8,8
+"","Environmental Publishing section 106 Review Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Test Case Development"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Tax Credit Publishing Testing"""
+"","Hours"""
+"","Test Implementation"""
+"",8,8
+"","Testing"""
+"",16,16
+"","Test Case Development"""
+"",8,8
+"","Operational Process implementation"""
+"Description"""""
+"","Prepare software for use in a operational work environment"""
+"","Operational Process Training"""
+"Description"""""
+"","Prepare actor for using software in an operational work environment"""
+"","Configuration Training"""
+"","Hours"""
+"","Present Materials"""
+"",1,1
+"","Prepare Training materials"""
+"",20,20
+"","Workflow Training"""
+"","Hours"""
+"","Prepare Training materials"""
+"",20,20
+"","Present Materials"""
+"",1,1
+"","Process Implementation Training"""
+"","Hours"""
+"","Prepare Training materials"""
+"",20,20
+"","Present Materials"""
+"",1,1
+"","Workflow Screen Design Training"""
+"","Hours"""
+"","Prepare Training materials"""
+"",20,20
+"","Present Materials"""
+"",1,1
+"","Operations Management Training"""
+"","Hours"""
+"","Prepare Training materials"""
+"",20,20
+"","Present Materials"""
+"",1,1
+"","Operations Training"""
+"","Understanding Intake"""
+"","Hours"""
+"","Prepare Training materials"""
+"",20,20
+"","Present Materials"""
+"",1,1
+"","Understanding Review"""
+"","Hours"""
+"","Present Materials"""
+"",1,1
+"","Prepare Training materials"""
+"",20,20
+"","Understanding Editing"""
+"","Hours"""
+"","Prepare Training materials"""
+"",20,20
+"","Present Materials"""
+"",1,1
+"","Understanding Approval"""
+"","Hours"""
+"","Present Materials"""
+"",1,1
+"","Prepare Training materials"""
+"",20,20
+"","Understanding Publication"""
+"","Hours"""
+"","Prepare Training materials"""
+"",20,20
+"","Present Materials"""
+"",1,1
+"","Operational Process Management"""
+"Description"""""
+"","Use, monitor, and adjust, software in a work environment"""
+"","Operations Management"""
+"","Actor/Access Management"""
+"Description"""""
+"","A common system for  managing none personally identifying actor information including deactivation of actor accounts, granting elevated permissions, purging unused actor accounts"""
+"","NRHP Actor Management"""
+"","Archaeology Actor Management"""
+"","Environmental Review Section 106  Actor Management"""
+"","Tax Credit Actor Management"""
+"","Workflow Monitoring"""
+"Description"""""
+"","A common system for monitoring the progression and current state of an individual or group of workflow cases"""
+"","NRHP Workflow Monitoring"""
+"","Archaeology Workflow Monitoring"""
+"","Environmental Review Section 106 Workflow Monitoring"""
+"","Tax Credit Workflow Monitoring"""
+"","Case Management"""
+"Description"""""
+"","Manage current cases in terms data inputs, actor communications and relationships in conformance with SHPO norms"""
+"","NRHP Case Management"""
+"","Archaeology Case Management"""
+"","Environmental Review Section 106 Case Management"""
+"","Tax Credit Case Management"""
+"","Digital Asset Management"""
+"Description"""""
+"","Manage the life cycle of digital assets post creation"""
+"","NRHP Digital Asset Management"""
+"","Archaeology Digital Asset Management"""
+"","Environmental Review Section 106 Digital Asset Management"""
+"","Tax Credit Digital Asset Management"""
+"","Intake Process"""
+"Description"""""
+"","Design, configure, modify, and test all intake screens and data needed to represent all intake related workflow and sub-workflow tasks."""
+"","NRHP Intake Process"""
+"","Archaeology Intake Process"""
+"","Environmental Review Section 106 Intake Process"""
+"","Tax Credit Intake Process"""
+"","Review Process"""
+"Description"""""
+"","Design, configure, modify, and test all review screens and data needed to represent all review related workflow and sub-workflow tasks."""
+"","The review process focuses on the performance of the submitter, with a view to improving quality, and upholding standards for submissions."""
+"","NRHP Review Process"""
+"","Archaeology Review Process"""
+"","Environmental Review Section 106 Intake Process"""
+"","Tax Credit Review Process"""
+"","Edit Process"""
+"Description"""""
+"","Design, configure, modify, and test all editor screens and data needed to represent all edit related workflow and sub-workflow tasks."""
+"","The editing process can involve correction, condensation, organization, and other modifications performed with an intention of producing a correct,consistent, accurate and complete work."""
+"","NRHP Edit Process"""
+"","Archaeology Edit Process"""
+"","Environmental Review Section 106 Edit Process"""
+"","Tax Credit Edit Process"""
+"","Approval Process"""
+"Description"""""
+"","Design, configure, modify, and test all approval screens and data needed to represent all approval related workflow and sub-workflow tasks."""
+"","NRHP Approval Process"""
+"","Archaeology Approval Process"""
+"","Environmental Review Section 106 Approval Process"""
+"","Tax Credit Approval Process"""
+"","Electronic Publication Process"""
+"Description"""""
+"","Design, configure, modify, and test all Publication screens and data needed to represent all Publication related workflow and sub-workflow tasks."""
+"","NRHP Publishing Process"""
+"","Electronic Document publishing"""
+"","Word document"""
+"","Full data disclosure"""
+"","PII redacted data"""
+"","Html document"""
+"","Digital Asset Publishing"""
+"","Open data table"""
+"","Open PII Redacted data table"""
+"","Protected data table"""
+"","Archaeology Publishing Process"""
+"","Electronic Document publishing"""
+"","Word document"""
+"","Full data disclosure"""
+"","PII redacted data"""
+"","Html document"""
+"","Digital Asset Publishing"""
+"","Open data table"""
+"","Open PII Redacted data table"""
+"","Protected data table"""
+"","Environmental Review Section 106 Publishing Process"""
+"","Electronic Document publishing"""
+"","Word document"""
+"","Full data disclosure"""
+"","PII redacted data"""
+"","Html document"""
+"","Digital Asset Publishing"""
+"","Open data table"""
+"","Open PII Redacted data table"""
+"","Protected data table"""
+"","Tax Credit Publishing Process"""
+"","Electronic Document publishing"""
+"","Word document"""
+"","Full data disclosure"""
+"","PII redacted data"""
+"","Html document"""
+"","Digital Asset Publishing"""
+"","Publish to Open data table"""
+"","Publish to Open PII Redacted data table"""
+"","Publish to Protected data table"""
+"","Data Migration"""
+"Description"""""
+"","Data Migration are those tasks necessary to transfer or transform the SHPO's current paper, and digital assets into the  system."""
+"","Argus System Export and Salvage"""
+"Description"""""
+"","Argus System Export and Salvage are those task necessary to salvage facts, figures, and symbols from the Argus System, and prepare/import those data into the new system."""
+"","Note: the current Argus system is more along the lines of an inventory with some modest process data collection.  This data might be better transformed into digital assets rather than running it through the process."""
+"","Evaluate Argus Data Structures"""
+"","Hours"""
+"",0,0
+"","Verification of Argus Data"""
+"","Hours"""
+"",0,0
+"","Cleansing of Argus Data"""
+"","Hours"""
+"",0,0
+"","Preparation of Argus to MiSHPO data transfer"""
+"","Hours"""
+"",0,0
+"","Implementation of Argus Data Transfer"""
+"","Hours"""
+"",0,0
+"","USGS Archaeology Map Digitization"""
+"Description"""""
+"","Need description"""
+"","USGS Scanning"""
+"","Units"""
+"","USGS Quadrangle Map Units"""
+"",1300,1300
+"","Heads up digitizing"""
+"","Units"""
+"","USGS Quadrangle Raster Map Units"""
+"",1300,1300
+"","Hours"""
+"","Register and Digitize"""
+"",1300,1300
+"","Resources"""
+"","Human Resources"""
+"Description"""""
+"","Human Resources are those people with the knowledge and technical skills needed to plan, design, develop, implement, and manage a software system"""
+"","Subject matter experts"""
+"","Argus"""
+"","NRHP"""
+"","Archaeology"""
+"","Tax Credits"""
+"","Environmental review section 106"""
+"","Geographic information systems specialist"""
+"","User Interface Designer"""
+"","System Integrator"""
+"","Process Designer"""
+"","Software developer"""
+"","System implementer"""
+"","Project Manager"""
+"","Business Analyst"""
+"","Database administrator"""
